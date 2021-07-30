@@ -2,15 +2,13 @@ baseurl: https://silvestred.netlify.app/
 languageCode: en-us
 defaultContentLanguage: en
 isMultilingual: no
-title: Silvestre Dimitrieff
-description: Silvestre's personal website
 theme: hugo-theme-sam
 pygmentsStyle: monokai
 pygmentsCodefences: yes
 params:
   dateform: Mon Jan 02, 2006
   dateformfull: Mon Jan 2 2006 15:04:05 EST
-  description: A new Hugo site.
+  description: Silvestre's personal website
   footerText: silvestredim@gmail.com
   homepage: Home
   mainMenu:
