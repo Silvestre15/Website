@@ -1,6 +1,7 @@
 baseurl: https://silvestred.netlify.app/
 languageCode: en-us
 defaultContentLanguage: en
+title: Silvestre Dimitrieff
 isMultilingual: no
 theme: hugo-theme-sam
 pygmentsStyle: monokai
