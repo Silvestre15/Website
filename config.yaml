@@ -3,6 +3,7 @@ languageCode: en-us
 defaultContentLanguage: en
 isMultilingual: no
 title: Silvestre Dimitrieff
+description: Silvestre's personal website
 theme: hugo-theme-sam
 pygmentsStyle: monokai
 pygmentsCodefences: yes
