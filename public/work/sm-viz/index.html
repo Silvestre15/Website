@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+
+<meta name="description" content="A new Hugo site.">
+<title>
+    Visualizing the stock market - Silvestre Dimitrieff
+</title>
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/main.min.c5514d3530979d291f3497facc20da1cec870028dbc2a3630b64bab8721bbe49.css" integrity="sha256-xVFNNTCXnSkfNJf6zCDaHOyHACjbwqNjC2S6uHIbvkk=" crossorigin="anonymous" media="screen">
+
+
+
+
+  
+
+
+
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Didact+Gothic">
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Visualizing the stock market"/>
+<meta name="twitter:description" content="This project analyses the structure of the main Spanish stock market index by means of supervised and unsupervised machine learning techniques included inside scikit-learn&rsquo;s Python package. The original code was written by Gaël Varoquaux, one of the creators of the widely used package.
+  The thicker the line between two companies and the brighter its colour, the greater the covariance between the daily fluctuations of said companies. The algorithm also clusters the companies based on the similarity of their impact on the index."/>
+
+<meta property="og:title" content="Visualizing the stock market" />
+<meta property="og:description" content="This project analyses the structure of the main Spanish stock market index by means of supervised and unsupervised machine learning techniques included inside scikit-learn&rsquo;s Python package. The original code was written by Gaël Varoquaux, one of the creators of the widely used package.
+  The thicker the line between two companies and the brighter its colour, the greater the covariance between the daily fluctuations of said companies. The algorithm also clusters the companies based on the similarity of their impact on the index." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://example.com/work/sm-viz/" /><meta property="article:section" content="work" />
+<meta property="article:published_time" content="2021-07-28T18:43:09+02:00" />
+<meta property="article:modified_time" content="2021-07-28T18:43:09+02:00" /><meta property="og:site_name" content="Silvestre Dimitrieff" />
+
+
+
+    
+
+    
+    
+    
+    <title>
+        
+        Visualizing the stock market
+        
+    </title>
+</head>
+
+<body>
+    
+    
+    <header class="wrap flex-container">
+        <h1>Visualizing the stock market</h1>
+    </header>
+    
+    <main class="wrap">
+        
+        <article role="article" class="flex-container"><p>This project analyses the structure of the main Spanish stock market index by means of supervised and unsupervised machine learning techniques included inside <a href="https://scikit-learn.org/stable/auto_examples/applications/plot_stock_market.html#sphx-glr-auto-examples-applications-plot-stock-market-py" title="Check scikit-learn&#39;s website" target="_blank" rel="noopener">scikit-learn&rsquo;s</a> Python package. The original code was written by <a href="http://gael-varoquaux.info/about.html" title="Check Gaël&#39;s website" target="_blank" rel="noopener">Gaël Varoquaux</a>, one of the creators of the widely used package.</p>
+<center>
+<img src="/ibex_1_year.svg"/>
+</center>
+<p>The thicker the line between two companies and the brighter its colour, the greater the covariance between the daily fluctuations of said companies. The algorithm also clusters the companies based on the similarity of their impact on the index. Said clusters can be identified thanks to the colour of the points that represent the companies. The analysed period is from the 31st of January of 2020 (first recorded case of Covid-19 in Spain) to the 31st of January of 2021.</p>
+<p>The plotting was done with matplotlib, but automatic label placement gets quite messy when there are many points to label in concentrated clusters. Therefore I made use of Inkscape to manually replace labels and make the graph clearer.</p>
+<p>
+<p> </p>
+</p>
+
+<h3 id="live-analysis" class="anchor-link"><a href="#live-analysis">Live analysis<span class="pilcrow">&nbsp;¶</span></a></h3>
+<p>The previous graph lets us visualise how the index behaved in the past, but I&rsquo;m more fond of seeing how it behaves during the trading hours. For that I wrote some code in R that scrapes the intraday fluctuations of the components and accumulates the results inside csv files. I can then run the same Python script on those newly created files and end up with the following graph:</p>
+<center>
+<img src="/ibex_15_jun.svg"/>
+</center>
+<p>As you can see, label placement gets tricky. The above graph lets us visualise the structure of the index on the morning of the 15th of June of 2021 (from 9AM to 2PM).</p>
+<p>The best part of this is that I can run the Python script on-the-go and get an image of the structure of the index with less than a minute of delay between the last fluctuations that were retrieved and the moment the graph is plotted on my computer.</p>
+<p>It is needless to say that this technique can be applied to multiple other ambitions such as:</p>
+<ol>
+<li>Analysing any other stock market index in the world</li>
+<li>Analysing the behaviours of the world stock market indexes between them</li>
+<li>Analysing arbitrarly picked stocks</li>
+</ol>
+<p>Nonetheless, I&rsquo;ll be looking forward to finding other applications for this algorithm that go beyond the analysis of the stock market.</p>
+</article>
+        
+
+        
+        
+        <nav role="navigation" class="flex-container bottom-menu">
+            
+<hr />
+<p>
+
+
+    
+
+    
+        
+            <a href="/cv">Profile</a>
+        
+    
+    
+        
+            &#183; 
+            <a href="/work">Work</a>
+        
+            &#183; 
+            <a href="/reads">Reads</a>
+        
+    
+    
+    
+        &#183; 
+        <a href="/">
+            Home
+        </a>
+    
+
+</p>
+        </nav>
+        
+        
+    </main>
+    
+    <footer class="flex-container footer"><a href="mailto:silvestredim@gmail.com">silvestredim@gmail.com</a>
+</footer>
+    
+    
+</body>
+
+</html>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work on Silvestre Dimitrieff</title>
+    <link>https://example.com/work/</link>
+    <description>Recent content in Work on Silvestre Dimitrieff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Feb 2018 12:21:57 -0500</lastBuildDate><atom:link href="https://example.com/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Economic inequality in the world</title>
+      <link>https://example.com/work/inequality/</link>
+      <pubDate>Wed, 28 Jul 2021 19:14:28 +0200</pubDate>
+      
+      <guid>https://example.com/work/inequality/</guid>
+      <description>Thomas Piketty&amp;rsquo;s first part of Capital et Idéologie talks about the unequal distribution of wealth between individuals. Two graphs caught my attention.
+&amp;nbsp;
+   &amp;nbsp;
+The above graph, dubbed the elephant&amp;rsquo;s curve because of its looks, represents the growth in wealth experienced by the different income groups since 1980. Piketty points to three important parts of the elephant. The hips show the growth of the lower class, the group comprised between the 10th and 50th top percentile.</description>
+    </item>
+    
+    <item>
+      <title>Visualizing the stock market</title>
+      <link>https://example.com/work/sm-viz/</link>
+      <pubDate>Wed, 28 Jul 2021 18:43:09 +0200</pubDate>
+      
+      <guid>https://example.com/work/sm-viz/</guid>
+      <description>This project analyses the structure of the main Spanish stock market index by means of supervised and unsupervised machine learning techniques included inside scikit-learn&amp;rsquo;s Python package. The original code was written by Gaël Varoquaux, one of the creators of the widely used package.
+  The thicker the line between two companies and the brighter its colour, the greater the covariance between the daily fluctuations of said companies. The algorithm also clusters the companies based on the similarity of their impact on the index.</description>
+    </item>
+    
+    <item>
+      <title>Sandbox</title>
+      <link>https://example.com/work/sandbox/</link>
+      <pubDate>Wed, 28 Jul 2021 18:41:09 +0200</pubDate>
+      
+      <guid>https://example.com/work/sandbox/</guid>
+      <description>This project, which is part of my curricular work, looks at the potential implementation of sandboxes in the Spanish administration in order to increase its efficiency. More precisely, its aim is to asses the potential benefits that may accompany the use of such systems when it comes to develop or buy new technologies to implement inside the state administration.
+For this extensive researches have been made inside the state&amp;rsquo;s official websites, information regarding annual budgets to Research and Development (R&amp;amp;D) expenses at the national level has been retrieved in order to corroborate the whole paper.</description>
+    </item>
+    
+  </channel>
+</rss>
