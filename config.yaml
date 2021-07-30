@@ -3,7 +3,6 @@ languageCode: en-us
 defaultContentLanguage: en
 isMultilingual: no
 title: Silvestre Dimitrieff
-assetDir = /assets
 theme: hugo-theme-sam
 pygmentsStyle: monokai
 pygmentsCodefences: yes
