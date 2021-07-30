@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Silvestre Dimitrieff</title>
-    <link>https://example.com/</link>
+    <link>https://silvestred.netlify.app/</link>
     <description>Recent content on Silvestre Dimitrieff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jul 2021 19:14:28 +0200</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jul 2021 19:14:28 +0200</lastBuildDate><atom:link href="https://silvestred.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Economic inequality in the world</title>
-      <link>https://example.com/work/inequality/</link>
+      <link>https://silvestred.netlify.app/work/inequality/</link>
       <pubDate>Wed, 28 Jul 2021 19:14:28 +0200</pubDate>
       
-      <guid>https://example.com/work/inequality/</guid>
+      <guid>https://silvestred.netlify.app/work/inequality/</guid>
       <description>Thomas Piketty&amp;rsquo;s first part of Capital et Idéologie talks about the unequal distribution of wealth between individuals. Two graphs caught my attention.
 &amp;nbsp;
    &amp;nbsp;
@@ -21,30 +21,30 @@ The above graph, dubbed the elephant&amp;rsquo;s curve because of its looks, rep
     
     <item>
       <title>Visualizing the stock market</title>
-      <link>https://example.com/work/sm-viz/</link>
+      <link>https://silvestred.netlify.app/work/sm-viz/</link>
       <pubDate>Wed, 28 Jul 2021 18:43:09 +0200</pubDate>
       
-      <guid>https://example.com/work/sm-viz/</guid>
+      <guid>https://silvestred.netlify.app/work/sm-viz/</guid>
       <description>This project analyses the structure of the main Spanish stock market index by means of supervised and unsupervised machine learning techniques included inside scikit-learn&amp;rsquo;s Python package. The original code was written by Gaël Varoquaux, one of the creators of the widely used package.
   The thicker the line between two companies and the brighter its colour, the greater the covariance between the daily fluctuations of said companies. The algorithm also clusters the companies based on the similarity of their impact on the index.</description>
     </item>
     
     <item>
       <title>Sandbox</title>
-      <link>https://example.com/work/sandbox/</link>
+      <link>https://silvestred.netlify.app/work/sandbox/</link>
       <pubDate>Wed, 28 Jul 2021 18:41:09 +0200</pubDate>
       
-      <guid>https://example.com/work/sandbox/</guid>
+      <guid>https://silvestred.netlify.app/work/sandbox/</guid>
       <description>This project, which is part of my curricular work, looks at the potential implementation of sandboxes in the Spanish administration in order to increase its efficiency. More precisely, its aim is to asses the potential benefits that may accompany the use of such systems when it comes to develop or buy new technologies to implement inside the state administration.
 For this extensive researches have been made inside the state&amp;rsquo;s official websites, information regarding annual budgets to Research and Development (R&amp;amp;D) expenses at the national level has been retrieved in order to corroborate the whole paper.</description>
     </item>
     
     <item>
       <title>Reads</title>
-      <link>https://example.com/reads/</link>
+      <link>https://silvestred.netlify.app/reads/</link>
       <pubDate>Wed, 28 Jul 2021 18:39:41 +0200</pubDate>
       
-      <guid>https://example.com/reads/</guid>
+      <guid>https://silvestred.netlify.app/reads/</guid>
       <description>In this section you can find all the books I have enjoyed reading as well as those I&amp;rsquo;m currently learning from.
 Currently reading&amp;nbsp;¶ Capital et Idéologie - Thomas Piketty
 Enjoyed reading&amp;nbsp;¶ Sapiens, 21 Lessons for the 21st Century and Homo Deus - Yuval Noah Harari
@@ -55,10 +55,10 @@ El Viajero Universal, o Noticia del Mundo Antiguo y Nuevo (Tomo XVII, Cuaderno X
     
     <item>
       <title>Curriculum Vitae</title>
-      <link>https://example.com/cv/</link>
+      <link>https://silvestred.netlify.app/cv/</link>
       <pubDate>Wed, 28 Jul 2021 18:38:23 +0200</pubDate>
       
-      <guid>https://example.com/cv/</guid>
+      <guid>https://silvestred.netlify.app/cv/</guid>
       <description>My name is Silvestre Dimitrieff Castellote. I&amp;rsquo;m a Belgium-born student currently finishing a BBA in Valencia, Spain.
 Education&amp;nbsp;¶ EDEM Escuela de Empresarios - Since 2018 - Spain
 Degree in Business Management, Entrepreneurship oriented (Bilingual English/Spanish)
@@ -73,10 +73,10 @@ Company internship
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://example.com/posts/2020-12-01-r-rmarkdown/</link>
+      <link>https://silvestred.netlify.app/posts/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://example.com/posts/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://silvestred.netlify.app/posts/2020-12-01-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
@@ -84,28 +84,28 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Video post</title>
-      <link>https://example.com/posts/video-post/</link>
+      <link>https://silvestred.netlify.app/posts/video-post/</link>
       <pubDate>Fri, 16 Mar 2018 20:18:53 -0500</pubDate>
       
-      <guid>https://example.com/posts/video-post/</guid>
+      <guid>https://silvestred.netlify.app/posts/video-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum. Elementum nisi quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
     </item>
     
     <item>
       <title>_Long_ Form Post</title>
-      <link>https://example.com/posts/long-form-post/</link>
+      <link>https://silvestred.netlify.app/posts/long-form-post/</link>
       <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
       
-      <guid>https://example.com/posts/long-form-post/</guid>
+      <guid>https://silvestred.netlify.app/posts/long-form-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum. Elementum nisi quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
     </item>
     
     <item>
       <title>**Image** post</title>
-      <link>https://example.com/posts/image-post/</link>
+      <link>https://silvestred.netlify.app/posts/image-post/</link>
       <pubDate>Mon, 19 Feb 2018 12:41:46 -0500</pubDate>
       
-      <guid>https://example.com/posts/image-post/</guid>
+      <guid>https://silvestred.netlify.app/posts/image-post/</guid>
       <description>Hello! I&amp;rsquo;m a blog post with an image. Thanks to Open Graph and Twitter metadata, external links to this page will feature the image below.
 To make this happen, set the images parameter in your post&amp;rsquo;s front-matter, like this YAML example:
 images: - /posts/ideas.png </description>
@@ -113,10 +113,10 @@ images: - /posts/ideas.png </description>
     
     <item>
       <title>`Code` Poetry</title>
-      <link>https://example.com/posts/code-poetry/</link>
+      <link>https://silvestred.netlify.app/posts/code-poetry/</link>
       <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
       
-      <guid>https://example.com/posts/code-poetry/</guid>
+      <guid>https://silvestred.netlify.app/posts/code-poetry/</guid>
       <description>Pseudo code poem.
 if (this === that): try write_new_poem() except not_a_poet as e: return e e cummings?
 console.log(&amp;#39;eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee&amp;#39;) An embedded gist using shortcode:
@@ -125,10 +125,10 @@ console.log(&amp;#39;eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
     
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://silvestred.netlify.app/about/</link>
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://silvestred.netlify.app/about/</guid>
       <description>Hello, I&amp;rsquo;m Sam. I&amp;rsquo;m a theme for Hugo. I&amp;rsquo;m an extremely customizable, content-focused theme that lets you showcase your work your way. I&amp;rsquo;m open source on GitHub.
 I have slick minimalist templates for list pages (such as a list of blog posts) and single pages (a page to read one blog post). You can use tags on your content, and view content by tags.
 I also have a simple responsive gallery feature.</description>
@@ -136,29 +136,29 @@ I also have a simple responsive gallery feature.</description>
     
     <item>
       <title>Dear Jane, regarding Mr. Bennet</title>
-      <link>https://example.com/posts/dear-jane/</link>
+      <link>https://silvestred.netlify.app/posts/dear-jane/</link>
       <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
       
-      <guid>https://example.com/posts/dear-jane/</guid>
+      <guid>https://silvestred.netlify.app/posts/dear-jane/</guid>
       <description>Chapter One&amp;nbsp;¶ It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
 However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters.</description>
     </item>
     
     <item>
       <title>Oh, Alice</title>
-      <link>https://example.com/posts/oh-alice/</link>
+      <link>https://silvestred.netlify.app/posts/oh-alice/</link>
       <pubDate>Fri, 09 Feb 2018 12:32:12 -0500</pubDate>
       
-      <guid>https://example.com/posts/oh-alice/</guid>
+      <guid>https://silvestred.netlify.app/posts/oh-alice/</guid>
       <description>Nor did such soothing scenes, however temporary, fail of at least as temporary an effect on Ahab. But if these secret golden keys did seem to open in him his own secret golden treasuries, yet did his breath upon them prove but tarnishing. Alice opened the door and found that it led into a small passage, not much larger than a rat-hole: she knelt down and looked along the passage into the loveliest garden you ever saw.</description>
     </item>
     
     <item>
       <title>A Poem</title>
-      <link>https://example.com/posts/a-poem/</link>
+      <link>https://silvestred.netlify.app/posts/a-poem/</link>
       <pubDate>Thu, 01 Feb 2018 12:35:11 -0500</pubDate>
       
-      <guid>https://example.com/posts/a-poem/</guid>
+      <guid>https://silvestred.netlify.app/posts/a-poem/</guid>
       <description>Now pleasing sleep had seal&amp;rsquo;d each mortal eye,
 Stretch&amp;rsquo;d in the tents the Grecian leaders lie:
 The immortals slumber&amp;rsquo;d on their thrones above;
