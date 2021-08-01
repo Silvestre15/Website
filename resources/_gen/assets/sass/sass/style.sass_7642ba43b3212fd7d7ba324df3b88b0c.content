@@ -56,7 +56,7 @@ a {
   border-bottom: none;
   transition: 0.2s ease; }
   a:hover {
-    color: #a9a9a9;
+    color: #669bbc;
     font-style: none; }
   a:active {
     color: #d58936; }
@@ -194,7 +194,7 @@ article {
     opacity: 1; }
   article blockquote {
     background-color: #d58936;
-    color: #a9a9a9;
+    color: #669bbc;
     padding: 2rem;
     margin: 2rem 1rem 2rem 1rem;
     border-radius: 3px; }

@@ -39,4 +39,5 @@ Piketty points out that there is a considerable difference between wealth and in
 
 ### Il est possible de vivre sans posséder, mais non sans se nourrir.
 <p>&nbsp;</p>
+
 One may live without owning anything, but not without eating. With that the author draws the attention to the fact that a balanced distribution of the generated income is more crucial than that of wealth. 
