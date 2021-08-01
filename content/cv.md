@@ -3,7 +3,8 @@ title: "Curriculum Vitae"
 date: 2021-07-28T18:38:23+02:00
 showDate: false
 ---
-My name is Silvestre Dimitrieff Castellote. I'm a Belgium-born student currently finishing a BBA in Valencia, Spain. 
+My name is Silvestre Dimitrieff Castellote. I'm a Belgium-born student currently finishing a BBA in Valencia, Spain.
+<p>&nbsp;</p>
 
 ## Education
 
@@ -13,6 +14,7 @@ Degree in Business Management, Entrepreneurship oriented (Bilingual English/Span
 
 **[Ecole Internationale Le Verseau](https://www.eiverseau.be/ "Check Le Verseau's website")** - till 2018 - Belgium<br>
 Secondary education (Bilingual English/French)
+<p>&nbsp;</p>
 
 ## Experience
 
@@ -54,7 +56,7 @@ Occasional job<br>
 **[Windcenter](https://windcenterdenia.com/ "Check Windcenter's website")** - summer of 2016 - Spain<br>
 Summer job<br>
 Met clients' needs and gave windsurf lessons in Spanish, French and English<br>
-
+<p>&nbsp;</p>
 
 ## Abilities and general
 

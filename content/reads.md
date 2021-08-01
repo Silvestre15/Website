@@ -32,6 +32,8 @@ _What They Teach You At Harvard Business School_ - [Philip Delves Broughton](htt
 
 _Rich Dad Poor Dad_ - [Robert Kiyosaki](https://www.richdad.com/ "Who is Robert Kiyosaki?")
 
+_Nineteen Eighty-four_ - [George Orwell](https://www.orwellfoundation.com/the-orwell-foundation/about/about-george-orwell/ "Who is George Orwell?")
+
 _Tuareg_ - [Alberto Vázquez-Figueroa](https://www.albertovazquez-figueroa.com/ "Who is Alberto Vázquez-Figueroa?")
 
 _Le Crime de l'Orient-Express_ - [Agatha Christie](https://www.agathachristie.com/ "Who is Agatha Christie?")
