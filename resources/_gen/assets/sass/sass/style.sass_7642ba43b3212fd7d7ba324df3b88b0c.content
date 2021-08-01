@@ -116,9 +116,6 @@ nav {
     border-bottom: none;
     display: contents; }
 
-.iframe {
-  background-color: transparent; }
-
 #splash {
   min-height: calc(100vh - 6em); }
 
@@ -271,9 +268,6 @@ article {
 .video {
   position: fixed;
   z-index: -1; }
-
-.iframe {
-  background-color: transparent; }
 
 #overlay {
   position: fixed;

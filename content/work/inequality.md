@@ -8,7 +8,7 @@ Thomas Piketty's first part of _Capital et Idéologie_ talks about the unequal d
 <p>&nbsp;</p>
 <center>
 <p align="center">
-<iframe src="/elephant.html" height=450 width=500 frameBorder=0 style="-webkit-transform:scale(1.2);-moz-transform-scale(1.2);"></iframe><p>
+<iframe src="/elephant.html" height=450 width=500 frameBorder=0 style="-webkit-transform:scale(1.2);-moz-transform-scale(1.2);" onload="window.frames[0].document.body.style.backgroundColor='#fff8f0'"></iframe><p>
 </center>
 <p>&nbsp;</p>
 
@@ -18,7 +18,7 @@ The above graph, dubbed the elephant's curve because of its looks, represents th
 <p>&nbsp;</p>
 <center>
 <p align="center">
-<iframe src="/top10share.html" height=450 width=500 frameBorder=0 style="-webkit-transform:scale(1.2);-moz-transform-scale(1.2);"></iframe><p>
+<iframe src="/top10share.html" height=450 width=500 frameBorder=0 style="-webkit-transform:scale(1.2);-moz-transform-scale(1.2);" onload="window.frames[1].document.body.style.backgroundColor='#fff8f0'"></iframe><p>
 </center>
 <p>&nbsp;</p>
 
@@ -28,7 +28,7 @@ This graph allows one to see how the share of the top decile (that is, the top 1
 <center>
 <div style="text-align:center">
 <p align="center">
-<iframe src="/top10share_index.html" height=450 width=500 frameBorder=0 style="-webkit-transform:scale(1.2);-moz-transform-scale(1.2);"></iframe><p>
+<iframe src="/top10share_index.html" height=450 width=500 frameBorder=0 style="-webkit-transform:scale(1.2);-moz-transform-scale(1.2);" onload="window.frames[2].document.body.style.backgroundColor='#fff8f0'"></iframe><p>
 </div>
 </center>
 <p>&nbsp;</p>
