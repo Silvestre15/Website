@@ -35,8 +35,7 @@ The above graph, dubbed the elephant&amp;rsquo;s curve because of its looks, rep
       <pubDate>Wed, 28 Jul 2021 18:41:09 +0200</pubDate>
       
       <guid>https://silvestred.netlify.app/work/sandbox/</guid>
-      <description>This project, which is part of my curricular work, looks at the potential implementation of sandboxes in the Spanish administration in order to increase its efficiency. More precisely, its aim is to asses the potential benefits that may accompany the use of such systems when it comes to develop or buy new technologies to implement inside the state administration.
-For this, extensive researches have been made inside the state&amp;rsquo;s official websites, information regarding annual budgets to Research and Development (R&amp;amp;D) expenses at the national level has been retrieved in order to corroborate the whole paper.</description>
+      <description>function iframeLoaded() { var iFrameID = document.getElementById(&#39;idIframe&#39;); if(iFrameID) { // here you can make the height, I delete it first, then I make it again iFrameID.height = &#34;&#34;; iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + &#34;px&#34;; } }  This project, which is part of my curricular work, looks at the potential implementation of sandboxes in the Spanish administration in order to increase its efficiency. More precisely, its aim is to asses the potential benefits that may accompany the use of such systems when it comes to develop or buy new technologies to implement inside the state administration.</description>
     </item>
     
     <item>
