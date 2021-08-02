@@ -27,3 +27,5 @@ For this, extensive researches have been made inside the state's official websit
 <p align="center">
 <iframe src="/GAV.html" allowtransparency="true" height=450 width=500 frameBorder=0 style="-webkit-transform:scale(1.2);-moz-transform-scale(1.2);background-color:#fff8f0;" onload="window.frames[2].document.body.style.backgroundColor='#fff8f0'";></iframe><p>
 </center>
+
+<iframe src="/GAV.html" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>
