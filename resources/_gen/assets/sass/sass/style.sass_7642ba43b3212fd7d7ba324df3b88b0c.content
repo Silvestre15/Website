@@ -122,6 +122,12 @@ nav {
     border-bottom: none;
     display: contents; }
 
+.iframe-class {
+  height: 450px;
+  width: 500px;
+  resize: both;
+  overflow: auto; }
+
 #splash {
   min-height: calc(100vh - 6em); }
 
@@ -277,6 +283,12 @@ article {
 .video {
   position: fixed;
   z-index: -1; }
+
+.iframe-class {
+  height: 450px;
+  width: 500px;
+  resize: both;
+  overflow: auto; }
 
 #overlay {
   position: fixed;

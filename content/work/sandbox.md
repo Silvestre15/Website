@@ -23,7 +23,9 @@ For this, extensive researches have been made inside the state's official websit
 
 <center>
 <p align="center">
-<iframe src="/rd_expen.html" allowtransparency="true" height=450 width=120% frameBorder=0 onload="window.frames[0].document.body.style.backgroundColor='#fff8f0'" onload="iframeLoaded()" scrolling="no"></iframe><p>
+<iframe src="/rd_expen.html" allowtransparency="true" frameBorder=0 onload="window.frames[0].document.body.style.backgroundColor='#fff8f0'" scrolling="no"></iframe><p>
+
+<iframe id="i" src="/rd_expen.html" style="width:100%;border:none;" height=450 scrolling="no"></iframe><script>window.onmessage=e=>{e.data.hasOwnProperty("frameHeight")&&(document.getElementById("i").style.height=`${e.data.frameHeight+30}px`)}</script>
 </center>
 <p>&nbsp;</p>
 <center>
