@@ -12,19 +12,48 @@ This project, which is part of my curricular work, looks at the potential implem
 
 For this, extensive researches have been made inside the state's official websites, information regarding annual budgets to Research and Development (R&D) expenses at the national level has been retrieved in order to corroborate the whole paper. To make it more appealing, a series of interactive graphs have been done with ggplot in order to illustrate the current situation at a national level.
 
+
+<iframe src="/GAV.html" scrolling=no id="custom_resize" onload="iframeLoaded()"></iframe>
+<p>&nbsp;</p>
+
 <script type="text/javascript">
   function iframeLoaded() {
       var iFrameID = document.getElementById('custom_resize');
       if(iFrameID) {
-            // here you can make the height, I delete it first, then I make it again
             iFrameID.height = "";
-            iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + "px";
+            iFrameID.height =         iFrameID.contentWindow.document.body.scrollHeight + "px";
             window.frames[0].document.body.style.backgroundColor='#fff8f0'
       }   
   }
 </script>
 
 
-<iframe src="/GAV.html" scrolling=no id="custom_resize" onload="iframeLoaded()"></iframe>
+
+
+<iframe src="/rd_expen.html" scrolling=no id="custom_resize1" onload="iframeLoaded1()"></iframe>
 <p>&nbsp;</p>
 
+<script type="text/javascript">
+  function iframeLoaded1() {
+      var iFrameID = document.getElementById('custom_resize1');
+      if(iFrameID) {
+            iFrameID.height = "";
+            iFrameID.height =         iFrameID.contentWindow.document.body.scrollHeight + "px";
+            window.frames[1].document.body.style.backgroundColor='#fff8f0'
+      }   
+  }
+</script>
+
+<iframe src="/interaction.html" scrolling=no id="custom_resize2" onload="iframeLoaded2()"></iframe>
+<p>&nbsp;</p>
+
+<script type="text/javascript">
+  function iframeLoaded2() {
+      var iFrameID = document.getElementById('custom_resize2');
+      if(iFrameID) {
+            iFrameID.height = "";
+            iFrameID.height =         iFrameID.contentWindow.document.body.scrollHeight + "px";
+            window.frames[2].document.body.style.backgroundColor='#fff8f0'
+      }   
+  }
+</script>
