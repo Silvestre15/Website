@@ -22,7 +22,7 @@ For this, extensive researches have been made inside the state's official websit
       if(iFrameID) {
             iFrameID.height = "";
             iFrameID.height =         iFrameID.contentWindow.document.body.scrollHeight + "px";
-            window.frames[0].document.body.style.backgroundColor='#fff8f0'
+            window.frames[0].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue('background-color')
       }   
   }
 </script>
@@ -39,7 +39,7 @@ For this, extensive researches have been made inside the state's official websit
       if(iFrameID) {
             iFrameID.height = "";
             iFrameID.height =         iFrameID.contentWindow.document.body.scrollHeight + "px";
-            window.frames[1].document.body.style.backgroundColor='#fff8f0'
+            window.frames[1].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue('background-color')
       }   
   }
 </script>
@@ -53,7 +53,7 @@ For this, extensive researches have been made inside the state's official websit
       if(iFrameID) {
             iFrameID.height = "";
             iFrameID.height =         iFrameID.contentWindow.document.body.scrollHeight + "px";
-            window.frames[2].document.body.style.backgroundColor='#fff8f0'
+            window.frames[2].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue('background-color')
       }   
   }
 </script>
