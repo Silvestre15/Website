@@ -6,13 +6,13 @@
 
 html {
   background-color: #F2DFCE;
-  font-family: "Atkinson Hyperlegible", "sans serif";
+  font-family: "Source Serif Pro", "serif";
   font-size: 16px;
   height: 100%; }
 
 body {
   font-size: 16px;
-  font-family: "Atkinson Hyperlegible", "sans serif";
+  font-family: "Source Serif Pro", "serif";
   color: #111;
   line-height: 1.5;
   letter-spacing: 1px;
@@ -115,7 +115,7 @@ nav {
   position: relative;
   bottom: .5em;
   padding: 1rem;
-  font-family: "Atkinson Hyperlegible", "sans serif";
+  font-family: "Source Serif Pro", "serif";
   font-size: 1.3rem;
   line-height: 1em;
   opacity: 1; }
@@ -135,7 +135,7 @@ nav {
 
 #title {
   margin-top: 3rem;
-  font-family: "Atkinson Hyperlegible", "sans serif";
+  font-family: "Source Serif Pro", "serif";
   font-size: 2rem;
   line-height: 3rem;
   margin-bottom: 2rem; }
@@ -313,6 +313,12 @@ iframe {
   font-style: normal;
   font-weight: 400;
   src: local("Crimson Pro"), url("/fonts/AtkinsonHyperlegible-Regular.ttf"); }
+
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: normal;
+  font-weight: 600;
+  src: local("Source Serif Pro"), url("/fonts/SourceSerifPro-Regular.ttf"); }
 
 .go-left {
   justify-content: flex-start;
