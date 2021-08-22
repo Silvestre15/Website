@@ -5,7 +5,7 @@ showDate: false
 ---
 Thomas Piketty's first part of _Capital et Idéologie_ talks about the unequal distribution of wealth between individuals. Two graphs caught my attention. 
 
-<iframe src="/elephant.html" scrolling=no id="custom_resize" onload="iframeLoaded()" allowTransparency="true"></iframe>
+<iframe src="/elephant.html" scrolling=no id="custom_resize" onload="iframeLoaded()" allowTransparency="true" width="100%"></iframe>
 
 <script type="text/javascript">
   function iframeLoaded() {
