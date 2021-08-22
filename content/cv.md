@@ -3,13 +3,13 @@ title: "Curriculum Vitae"
 date: 2021-07-28T18:38:23+02:00
 showDate: false
 ---
-My name is Silvestre Dimitrieff Castellote. I'm a Belgium-born student currently finishing a BBA in Valencia, Spain.
+My name is Silvestre Dimitrieff Castellote and I'm a Belgium-born student currently finishing a BBA in Valencia, Spain. 
 <p>&nbsp;</p>
 
 ## Education
 
 **[EDEM Escuela de Empresarios](https://edem.eu/en/ "Check EDEM's website")** - Since 2018 - Spain<br>
-Degree in Business Management, Entrepreneurship oriented (Bilingual English/Spanish)<br>
+Bachelor in Business Administration, Entrepreneurship oriented (Bilingual English/Spanish)<br>
 <p>&nbsp;</p>
 
 **[Ecole Internationale Le Verseau](https://www.eiverseau.be/ "Check Le Verseau's website")** - Till 2018 - Belgium<br>
@@ -18,16 +18,16 @@ Secondary education (Bilingual English/French)
 
 ## Experience
 
-**[Club Naútico de Jávea](https://cnjavea.net/ "Check CNJ's website")** - Summer of 2021 (ongoing) - Spain<br>
+**[Club Naútico de Jávea](https://cnjavea.net/ "Check CNJ's website")** - Summer of 2021 - Spain<br>
 _Extracurricular internship_<br>
-• Assisting with registrations and accounting<br>
-• Helping in the organization and execution of regatte<br>
+• Assisted in the accounting department of the sailing school<br>
+• Helped in the organization and execution of regatte during the [Semana de Vela](https://www.abc.es/deportes/vela/vela-ligera/abci-115-regatistas-participaronn-47-semana-vela-club-nautico-javea-202108161253_noticia.html "More info on that")<br>
 <p>&nbsp;</p>
 
 **[Auditcom](https://www.companyweb.be/societe/auditcom/sprl/439360312 "Check Auditcom's website")** - Summer of 2020 - Belgium<br>
 _Extracurricular internship_<br>
 • Improved Microsoft Excel abilities and company accounting knowledge<br>
-• Realized a fully modulable treasury spreadsheet for newly created companies<br>
+• Created a fully modulable treasury spreadsheet for newly created companies<br>
 <p>&nbsp;</p>
 
 **[Mercadona](https://www.mercadona.es/ "Check Mercadona's website")** - Summer of 2019 - Spain<br>
