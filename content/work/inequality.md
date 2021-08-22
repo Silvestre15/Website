@@ -57,3 +57,5 @@ Piketty points out that there is a considerable difference between wealth and in
 <p>&nbsp;</p>
 
 One may live without owning anything, but not without eating. With that the author draws the attention to the fact that a balanced distribution of the generated income is more crucial than that of wealth. 
+
+<iframe src="/GAV.html" onload="this.width=screen.width;this.height=screen.height;">
