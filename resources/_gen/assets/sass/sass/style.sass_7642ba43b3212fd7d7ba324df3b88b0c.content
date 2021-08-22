@@ -103,7 +103,8 @@ nav {
   justify-content: center;
   align-items: center;
   text-align: center;
-  font-size: 1.5rem; }
+  font-size: 1.5rem;
+  font-family: "Helvetica", "sans serif"; }
 
 .footer {
   width: 100%;
