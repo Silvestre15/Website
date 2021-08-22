@@ -11,7 +11,7 @@ html {
   height: 100%; }
 
 body {
-  font-size: 16px;
+  font-size: 18px;
   font-family: "Source Serif Pro", "serif";
   color: #111;
   line-height: 1.5;
@@ -84,6 +84,13 @@ nav {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
+  align-items: center; }
+
+.iframe {
+  border-width: 0;
+  overflow: hidden;
+  width: 100%;
+  max-width: 100%;
   align-items: center; }
 
 .tag {
@@ -283,7 +290,8 @@ iframe {
   overflow: hidden;
   width: 100%;
   max-width: 100%;
-  align-items: center; }
+  align-items: center;
+  display: block; }
 
 #overlay {
   position: fixed;

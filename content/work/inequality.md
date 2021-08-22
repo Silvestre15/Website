@@ -12,7 +12,9 @@ Thomas Piketty's first part of _Capital et Idéologie_ talks about the unequal d
       var iFrameID = document.getElementById('custom_resize');
       if(iFrameID) {
             iFrameID.height = "";
-            iFrameID.height =         iFrameID.contentWindow.document.body.scrollHeight + "px";
+            iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + "px";
+            iFrameID.width = "";
+            iFrameID.width = iFrameID.contentWindow.document.body.scrollWidth + 300 + "px";
             window.frames[0].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue('background-color')
       }   
   }
@@ -57,5 +59,3 @@ Piketty points out that there is a considerable difference between wealth and in
 <p>&nbsp;</p>
 
 One may live without owning anything, but not without eating. With that the author draws the attention to the fact that a balanced distribution of the generated income is more crucial than that of wealth. 
-
-<iframe src="/GAV.html" onload="this.width=screen.width;this.height=screen.height;">
