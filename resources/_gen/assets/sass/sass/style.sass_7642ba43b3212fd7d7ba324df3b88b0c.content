@@ -75,11 +75,11 @@ nav {
 
 .wrap {
   margin: 0 auto;
-  width: 80%;
+  width: 60%;
   max-width: 64em; }
   @media screen and (max-width: 736px) {
     .wrap {
-      width: 95%; } }
+      width: 90%; } }
 .tag-container {
   display: flex;
   flex-direction: row;
@@ -193,7 +193,7 @@ article {
     border-radius: 3px;
     border: 1px solid #d58936; }
   article img {
-    width: 100%;
+    width: 80%;
     max-width: 100%;
     display: block;
     margin: 2rem auto;
@@ -287,12 +287,20 @@ article {
 
 iframe {
   border-width: 0;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  margin-right: auto;
+  margin-left: auto;
   overflow: hidden;
   width: 100%;
   max-width: 100%;
-  align-items: center;
   display: block; }
-
+  @media screen and (min-width: 700px) {
+    iframe {
+      width: 60%; } }
+  @media screen and (min-width: 400px) {
+    iframe {
+      width: 70%; } }
 #overlay {
   position: fixed;
   height: 100%;
@@ -322,7 +330,7 @@ iframe {
   font-family: 'Atkinson Hyperlegible';
   font-style: normal;
   font-weight: 400;
-  src: local("Crimson Pro"), url("/fonts/AtkinsonHyperlegible-Regular.ttf"); }
+  src: local("Atkinson Hyperlegible"), url("/fonts/AtkinsonHyperlegible-Regular.ttf"); }
 
 @font-face {
   font-family: 'Source Serif Pro';

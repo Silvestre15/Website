@@ -3,8 +3,7 @@ title: "Economic inequality in the world"
 date: 2021-07-28T19:14:28+02:00
 showDate: false
 ---
-Thomas Piketty's first part of _Capital et Idéologie_ talks about the unequal distribution of wealth between individuals. Two graphs caught my attention. 
-<p>&nbsp;</p>
+Thomas Piketty's first part of _Capital et Idéologie_ talks about the unequal distribution of wealth between individuals. Two graphs caught my attention.
 
 <iframe src="/elephant.html" scrolling=no id="custom_resize" onload="iframeLoaded()" allowTransparency="true" width="100%"></iframe>
 
@@ -20,7 +19,6 @@ Thomas Piketty's first part of _Capital et Idéologie_ talks about the unequal d
       }   
   }
 </script>
-<p>&nbsp;</p>
 
 The above graph, dubbed the elephant's curve because of its looks, represents the growth in wealth experienced by the different income groups since 1980. Piketty points to three important parts of the elephant. The hips show the growth of the lower class, the group comprised between the 10th and 50th top percentile. The back, standing at a lower point than the hips, shows the "forgotten middle class" according to the author because of the great difference in growth rates experienced by the latter. The trunk is quite interesting, as it shows how the wealthy have seen their riches grow in comparison with the rest of the people. This last part of the curve is almost exponential-like for the richest have seen their wealth grow at the highest rates compared with the rest of the population. 
 <p>&nbsp;</p>
