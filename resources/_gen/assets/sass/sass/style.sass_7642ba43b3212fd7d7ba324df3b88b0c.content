@@ -76,9 +76,9 @@ nav {
 
 .wrap {
   margin: 0 auto;
-  width: 60%;
+  width: 65%;
   max-width: 64em; }
-  @media screen and (max-width: 736px) {
+  @media screen and (max-width: 650px) {
     .wrap {
       width: 90%; } }
 .tag-container {
@@ -91,8 +91,7 @@ nav {
   border-width: 0;
   overflow: hidden;
   width: 100%;
-  max-width: 100%;
-  align-items: center; }
+  max-width: 100%; }
 
 .tag {
   background-color: transparent;
@@ -131,6 +130,9 @@ nav {
   .footer a {
     border-bottom: none;
     display: contents; }
+
+.flex {
+  display: flex; }
 
 #splash {
   min-height: calc(100vh - 6em); }
@@ -290,18 +292,11 @@ iframe {
   border-width: 0;
   margin-top: 10px;
   margin-bottom: 40px;
-  margin-right: auto;
-  margin-left: auto;
-  overflow: hidden;
-  width: 100%;
-  max-width: 100%;
-  display: block; }
-  @media screen and (min-width: 700px) {
+  overflow: hidden; }
+  @media screen and (min-width: 650px) {
     iframe {
-      width: 60%; } }
-  @media screen and (min-width: 400px) {
-    iframe {
-      width: 70%; } }
+      width: 60%;
+      float: left; } }
 #overlay {
   position: fixed;
   height: 100%;
@@ -310,16 +305,6 @@ iframe {
   left: 0;
   background: rgba(0, 0, 0, 0.4);
   z-index: -1; }
-
-@media (min-aspect-ratio: 16/9) {
-  .video {
-    width: 100%;
-    height: auto; } }
-
-@media (max-aspect-ratio: 16/9) {
-  .video {
-    width: auto;
-    height: 100%; } }
 
 @font-face {
   font-family: 'Crimson Pro';

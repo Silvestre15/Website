@@ -156,16 +156,10 @@ iframe
     border-width: 0
     margin-top: 10px
     margin-bottom: 40px
-    margin-right: auto
-    margin-left: auto
     overflow: hidden
-    width: 100%
-    max-width: 100%
-    display: block
-    @media screen and (min-width: 700px)
+    @media screen and (min-width: 650px)
         width: 60%
-    @media screen and (min-width: 400px)
-        width: 70%
+        float: left
 
 
 #overlay
@@ -176,16 +170,6 @@ iframe
     left: 0
     background: rgba(0,0,0, 0.4)
     z-index: -1
-
-@media (min-aspect-ratio: 16/9)
-    .video
-        width: 100%
-        height: auto
-
-@media (max-aspect-ratio: 16/9)
-    .video
-        width: auto
-        height: 100%
 
 @font-face 
 	font-family: 'Crimson Pro' 
