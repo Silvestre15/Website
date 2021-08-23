@@ -12,8 +12,6 @@ Thomas Piketty's first part of _Capital et Idéologie_ talks about the unequal d
       if(iFrameID) {
             iFrameID.height = "";
             iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + "px";
-            iFrameID.width = "";
-            iFrameID.width = iFrameID.contentWindow.document.body.scrollWidth + 300 + "px";
             window.frames[0].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue('background-color')
       }   
   }
@@ -30,7 +28,7 @@ The above graph, dubbed the elephant's curve because of its looks, represents th
       var iFrameID = document.getElementById('custom_resize1');
       if(iFrameID) {
             iFrameID.height = "";
-            iFrameID.height =         iFrameID.contentWindow.document.body.scrollHeight + "px";
+            iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + "px";
             window.frames[1].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue('background-color')
       }   
   }
@@ -47,7 +45,7 @@ This graph allows one to see how the share of the top decile (that is, the top 1
       var iFrameID = document.getElementById('custom_resize2');
       if(iFrameID) {
             iFrameID.height = "";
-            iFrameID.height =         iFrameID.contentWindow.document.body.scrollHeight + "px";
+            iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + "px";
             window.frames[2].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue('background-color')
       }   
   }
