@@ -1,6 +1,6 @@
 ---
 title: "Sandbox"
-description: "Brief summary of an academic paper written in 2021"
+description: "Brief summary of a 2021 academic paper"
 date: '2021-07-28T18:41:09+02:00'
 showDate: no
 output:
