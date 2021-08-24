@@ -139,6 +139,18 @@ nav {
   @media screen and (min-width: 1050px) {
     .footer {
       font-size: 1.8rem; } }
+.quote {
+  font-family: "Source Serif Pro Italic", "serif";
+  font-size: 1.3rem;
+  color: #111;
+  width: 70%;
+  margin-left: 5vh;
+  border-top: 2px solid #d58936;
+  border-bottom: 2px solid #d58936; }
+  @media screen and (max-width: 800px) {
+    .quote {
+      width: 100%;
+      margin-left: auto; } }
 .flex {
   display: flex; }
 
@@ -337,6 +349,12 @@ iframe {
   font-style: normal;
   font-weight: 600;
   src: local("Source Serif Pro"), url("/fonts/SourceSerifPro-Regular.ttf"); }
+
+@font-face {
+  font-family: 'Source Serif Pro Italic';
+  font-style: normal;
+  font-weight: 400;
+  src: local("Source Serif Pro Italic"), url("/fonts/SourceSerifPro-BoldItalic.ttf"); }
 
 .go-left {
   justify-content: flex-start;
