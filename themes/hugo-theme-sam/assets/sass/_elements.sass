@@ -32,8 +32,6 @@ article
     & .anchor-link > a
         border-bottom: none
         color: $body-text
-        &:hover > .pilcrow
-            display: inline
     & span.pilcrow
         display: none
     & p
@@ -160,7 +158,11 @@ iframe
     max-width: 100%
     overflow: hidden
     @media screen and (min-width: 650px)
-        width: 60%
+        width: 70%
+        float: left
+        margin-right: 40px
+    @media screen and (min-width: 1050px)
+        width: 50%
         float: left
         margin-right: 40px
 
