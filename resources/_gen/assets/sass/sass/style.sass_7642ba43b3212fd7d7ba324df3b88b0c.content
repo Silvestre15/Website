@@ -116,12 +116,16 @@ nav {
   @media screen and (min-width: 650px) {
     .bottom-menu {
       font-size: 1.5rem; } }
+  @media screen and (min-width: 1050px) {
+    .bottom-menu {
+      font-size: 1.8rem; } }
 .footer {
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
+  margin-bottom: 5px;
   background-color: transparent;
   position: relative;
   bottom: .5em;
@@ -144,6 +148,8 @@ nav {
   font-size: 1.3rem;
   color: #111;
   width: 70%;
+  margin-top: 3vh;
+  margin-bottom: 5vh;
   margin-left: 5vh;
   border-top: 2px solid #d58936;
   border-bottom: 2px solid #d58936; }
