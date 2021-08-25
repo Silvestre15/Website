@@ -3,7 +3,7 @@ title: "Economic inequality in the world"
 date: 2021-07-28T19:14:28+02:00
 showDate: false
 ---
-Thomas Piketty's first part of _Capital et Idéologie_ talks about the unequal distribution of wealth between individuals. Two graphs caught my attention.
+Thomas Piketty's first part of [Capital et Idéologie](/reads "Check out what I'm currently reading") talks about the unequal distribution of wealth between individuals. Two graphs caught my attention.
 
 <script type="text/javascript">
   function iframeLoaded() {

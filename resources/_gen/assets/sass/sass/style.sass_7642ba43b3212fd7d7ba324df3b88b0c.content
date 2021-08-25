@@ -147,10 +147,11 @@ nav {
   font-family: "Source Serif Pro Italic", "serif";
   font-size: 1.3rem;
   color: #111;
-  width: 70%;
+  width: 60%;
   margin-top: 3vh;
   margin-bottom: 5vh;
-  margin-left: 5vh;
+  margin-left: auto;
+  margin-right: auto;
   border-top: 2px solid #d58936;
   border-bottom: 2px solid #d58936; }
   @media screen and (max-width: 800px) {
@@ -220,11 +221,14 @@ article {
     border-radius: 3px;
     border: 1px solid #d58936; }
   article img {
-    width: 80%;
+    width: 100%;
     max-width: 100%;
     display: block;
     margin: 2rem auto;
     opacity: 1; }
+    @media screen and (min-width: 650px) {
+      article img {
+        width: 70%; } }
   article blockquote {
     background-color: #d58936;
     color: #669bbc;
