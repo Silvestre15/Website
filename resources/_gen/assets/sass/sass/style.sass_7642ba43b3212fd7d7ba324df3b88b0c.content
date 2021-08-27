@@ -115,7 +115,7 @@ nav {
   font-size: 1.2rem; }
   @media screen and (min-width: 650px) {
     .bottom-menu {
-      font-size: 1.5rem; } }
+      font-size: 1.6rem; } }
   @media screen and (min-width: 1050px) {
     .bottom-menu {
       font-size: 1.8rem; } }
@@ -376,6 +376,13 @@ iframe {
 
 .go-center {
   justify-content: center;
-  align-items: center; }
+  align-items: center;
+  text-align: center; }
+  @media screen and (min-width: 650px) {
+    .go-center {
+      width: 70%; } }
+  @media screen and (min-width: 1050px) {
+    .go-center {
+      width: 50%; } }
 
 /*# sourceMappingURL=main.css.map */
