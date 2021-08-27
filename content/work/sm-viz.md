@@ -1,7 +1,7 @@
 ---
 title: "Visualizing the stock market structure"
 date: 2021-07-28T18:43:09+02:00
-showDate: false
+showDate: true
 ---
 This project analyses the structure of the main Spanish stock market index by means of supervised and unsupervised machine learning techniques included inside [scikit-learn's](https://scikit-learn.org/stable/auto_examples/applications/plot_stock_market.html#sphx-glr-auto-examples-applications-plot-stock-market-py "Check scikit-learn's website") Python package. The original code was written by [Gaël Varoquaux](http://gael-varoquaux.info/about.html "Check Gaël's website"), one of the creators of the widely used package.
 
