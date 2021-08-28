@@ -2,7 +2,7 @@
 title: "Sandbox"
 description: "Brief summary of a 2021 academic paper"
 date: '2021-07-28T18:41:09+02:00'
-showDate: no
+showDate: true
 output:
   html_document:
     df_print: paged

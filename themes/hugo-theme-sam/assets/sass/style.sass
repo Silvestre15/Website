@@ -60,6 +60,7 @@ a
     font-family: $header_font
     text-decoration: none
     border-bottom: none
+    display:inline-block
     +ease(0.2s)
     &:hover
         color: $links-hover
@@ -111,7 +112,7 @@ nav
     align-items: center
     text-align: center
     font-family: $header_font
-    font-size: 1.2rem
+    font-size: 1.4rem
     @media screen and (min-width: 650px)
              font-size: 1.6rem
     @media screen and (min-width: 1050px)
@@ -159,6 +160,25 @@ nav
 
 .flex
     display: flex
+
+.date-post
+    font-size: 1.2rem
+    font-family: $header_font
+
+.date-index
+    font-size: 1.2rem
+    font-family: $header_font
+    float: right
+    margin-right: 0px
+    display: flex
+    justify-content: space-between
+
+.navigation
+    text-align: left
+    display: flex
+    justify-content: space-between
+
+    
 
 @import "elements"
 

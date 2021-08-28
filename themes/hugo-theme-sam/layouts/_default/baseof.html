@@ -25,6 +25,8 @@
     {{ end }}
     <main class="wrap">
         {{ block "section_content" . }}
+        <article class="date-post">
+        Last updated on {{ .Date.Format (.Site.Params.dateForm | default "Mon Jan 02, 2006")}}</article>
         <article role="article" class="flex-container">{{ .Content }}</article>
         {{ end }}
 

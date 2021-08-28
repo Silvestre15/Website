@@ -112,7 +112,7 @@ nav {
   align-items: center;
   text-align: center;
   font-family: "Helvetica", "sans serif";
-  font-size: 1.2rem; }
+  font-size: 1.4rem; }
   @media screen and (min-width: 650px) {
     .bottom-menu {
       font-size: 1.6rem; } }
@@ -160,6 +160,23 @@ nav {
       margin-left: auto; } }
 .flex {
   display: flex; }
+
+.date-post {
+  font-size: 1.2rem;
+  font-family: "Helvetica", "sans serif"; }
+
+.date-index {
+  font-size: 1.2rem;
+  font-family: "Helvetica", "sans serif";
+  float: right;
+  margin-right: 0px;
+  display: flex;
+  justify-content: space-between; }
+
+.navigation {
+  text-align: left;
+  display: flex;
+  justify-content: space-between; }
 
 #splash {
   min-height: calc(100vh - 6em); }

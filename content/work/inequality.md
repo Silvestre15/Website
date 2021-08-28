@@ -1,7 +1,7 @@
 ---
 title: "Economic inequality in the world"
 date: 2021-07-28T19:14:28+02:00
-showDate: false
+showDate: true
 ---
 Thomas Piketty's first part of [Capital et Idéologie](/reads "Check out what I'm currently reading") talks about the unequal distribution of wealth between individuals. Two graphs caught my attention.
 

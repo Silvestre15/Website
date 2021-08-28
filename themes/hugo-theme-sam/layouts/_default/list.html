@@ -5,13 +5,11 @@
 <nav role="navigation">
     <ul>
         {{ range .Data.Pages }}
-        <li>
-            {{ if .Params.showDate }}
-            {{ .Date.Format (.Site.Params.dateForm | default "Mon Jan 02, 2006")}} --
-            {{ end }}
+        <li class="navigation">
             <a href="{{.RelPermalink}}">
-                {{.Title | markdownify}}
+            {{.Title | markdownify}}
             </a>
+            <span class="date-index">{{ .Date.Format (.Site.Params.dateForm | default "Mon Jan 02, 2006")}}</span>
         </li>
         {{ end }}
     </ul>
