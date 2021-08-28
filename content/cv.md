@@ -1,10 +1,8 @@
 ---
 title: "Curriculum Vitae"
-date: 2021-07-28T18:38:23+02:00
-showDate: false
+date: '2021-08-21T18:41:09+02:00'
 ---
 My name is Silvestre Dimitrieff Castellote and I'm a student currently finishing a BBA in Valencia, Spain. 
-<p>&nbsp;</p>
 
 ## Education
 

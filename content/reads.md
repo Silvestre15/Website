@@ -1,7 +1,6 @@
 ---
 title: "Reads"
-date: 2021-07-28T18:39:41+02:00
-showDate: false
+date: '2021-06-10T18:41:09+02:00'
 ---
 In this section you can find all the books I have enjoyed reading as well as those I'm currently learning from.
 
