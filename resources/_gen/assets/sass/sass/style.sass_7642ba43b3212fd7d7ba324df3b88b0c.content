@@ -92,7 +92,8 @@ nav {
   border-width: 0;
   overflow: hidden;
   width: 100%;
-  max-width: 100%; }
+  max-width: 100%;
+  display: block; }
 
 .tag {
   background-color: transparent;
@@ -164,9 +165,9 @@ nav {
 .date-post {
   font-size: 1.2rem;
   font-family: "Helvetica", "sans serif";
-  width: 51vh;
   border-bottom: 2px solid #669bbc;
-  margin-bottom: 20px; }
+  margin-bottom: 20px;
+  width: max-content; }
 
 .date-index {
   font-size: 1.2rem;
@@ -181,7 +182,8 @@ nav {
 .navigation {
   text-align: left;
   display: flex;
-  justify-content: space-between; }
+  justify-content: space-between;
+  font-size: 1.2rem; }
 
 #splash {
   min-height: calc(100vh - 6em); }
@@ -344,6 +346,7 @@ iframe {
   margin-bottom: 10px;
   width: 100%;
   max-width: 100%;
+  display: block;
   overflow: hidden; }
   @media screen and (min-width: 650px) {
     iframe {
@@ -355,6 +358,23 @@ iframe {
       width: 50%;
       float: left;
       margin-right: 40px; } }
+.iframe-center {
+  border-width: 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 100%;
+  overflow: hidden; }
+  @media screen and (min-width: 650px) {
+    .iframe-center {
+      width: 70%;
+      float: center; } }
+  @media screen and (min-width: 1050px) {
+    .iframe-center {
+      width: 50%;
+      float: center; } }
 #overlay {
   position: fixed;
   height: 100%;

@@ -13,14 +13,7 @@ This project, which is part of my curricular work, looks at the potential implem
 For this, extensive researches have been made inside the state's official websites, information regarding annual budgets to Research and Development (R&D) expenses at the national level has been retrieved in order to corroborate the whole paper. To make it more appealing, a series of interactive graphs have been done with ggplot in order to illustrate the current situation at a national level.
 <p>&nbsp;</p>
 
-<style>
-.center-iframe{
-    text-align: center;
-}
-</style>
-
-
-<iframe src="/GAV.html" scrolling=no id="custom_resize" onload="iframeLoaded()" allowTransparency="true" class="center-iframe"></iframe>
+<iframe src="/GAV.html" scrolling=no id="custom_resize" onload="iframeLoaded()" allowTransparency="true" class="iframe-center"></iframe>
 <p>&nbsp;</p>
 
 <script type="text/javascript">
@@ -35,7 +28,7 @@ For this, extensive researches have been made inside the state's official websit
 </script>
 
 
-<iframe src="/rd_expen.html" scrolling=no id="custom_resize1" onload="iframeLoaded1()"></iframe>
+<iframe src="/rd_expen.html" scrolling=no id="custom_resize1" onload="iframeLoaded1()" class="iframe-center"></iframe>
 <p>&nbsp;</p>
 
 <script type="text/javascript">
@@ -49,7 +42,7 @@ For this, extensive researches have been made inside the state's official websit
   }
 </script>
 
-<iframe src="/interaction.html" scrolling=no id="custom_resize2" onload="iframeLoaded2()"></iframe>
+<iframe src="/interaction.html" scrolling=no id="custom_resize2" onload="iframeLoaded2()" class="iframe-center"></iframe>
 
 <script type="text/javascript">
   function iframeLoaded2() {
