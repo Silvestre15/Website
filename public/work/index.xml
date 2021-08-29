@@ -13,7 +13,7 @@
       <pubDate>Sat, 14 Aug 2021 19:14:28 +0200</pubDate>
       
       <guid>https://silvestred.netlify.app/work/inequality/</guid>
-      <description>Thomas Piketty&amp;rsquo;s first part of Capital et Idéologie talks about the unequal distribution of wealth between individuals. Two graphs caught my attention.
+      <description>Thomas Piketty&amp;rsquo;s first part of Capital et Idéologie talks about the unequal distribution of wealth between individuals. Below are some of the graphs that caught my eye because of how much they speak for themselves.
 function iframeLoaded() { var iFrameID = document.getElementById(&#39;custom_resize&#39;); if(iFrameID) { iFrameID.height = &#34;&#34;; iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + &#34;px&#34;; window.frames[0].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue(&#39;background-color&#39;) } }    The above graph, dubbed the elephant&#39;s curve because of its looks, represents the growth in wealth experienced by the different income groups since 1980.</description>
     </item>
     
