@@ -6,11 +6,11 @@
     <description>Recent content in Work on Silvestre Dimitrieff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Feb 2018 12:21:57 -0500</lastBuildDate><atom:link href="https://silvestred.netlify.app/work/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Aug 2021 19:14:28 +0200</lastBuildDate><atom:link href="https://silvestred.netlify.app/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Economic inequality in the world</title>
       <link>https://silvestred.netlify.app/work/inequality/</link>
-      <pubDate>Wed, 28 Jul 2021 19:14:28 +0200</pubDate>
+      <pubDate>Sat, 14 Aug 2021 19:14:28 +0200</pubDate>
       
       <guid>https://silvestred.netlify.app/work/inequality/</guid>
       <description>Thomas Piketty&amp;rsquo;s first part of Capital et Idéologie talks about the unequal distribution of wealth between individuals. Two graphs caught my attention.
@@ -20,7 +20,7 @@ function iframeLoaded() { var iFrameID = document.getElementById(&#39;custom_res
     <item>
       <title>Visualizing the stock market structure</title>
       <link>https://silvestred.netlify.app/work/sm-viz/</link>
-      <pubDate>Wed, 28 Jul 2021 18:43:09 +0200</pubDate>
+      <pubDate>Mon, 28 Jun 2021 18:43:09 +0200</pubDate>
       
       <guid>https://silvestred.netlify.app/work/sm-viz/</guid>
       <description>This project analyses the structure of the main Spanish stock market index by means of supervised and unsupervised machine learning techniques included inside scikit-learn&amp;rsquo;s Python package. The original code was written by Gaël Varoquaux, one of the creators of the widely used package.
@@ -30,7 +30,7 @@ function iframeLoaded() { var iFrameID = document.getElementById(&#39;custom_res
     <item>
       <title>Sandbox</title>
       <link>https://silvestred.netlify.app/work/sandbox/</link>
-      <pubDate>Wed, 28 Jul 2021 18:41:09 +0200</pubDate>
+      <pubDate>Thu, 29 Apr 2021 18:41:09 +0200</pubDate>
       
       <guid>https://silvestred.netlify.app/work/sandbox/</guid>
       <description>This project, which is part of my curricular work, looks at the potential implementation of sandboxes in the Spanish administration in order to increase its efficiency. More precisely, its aim is to assess the potential benefits that may accompany the use of such systems when it comes to develop or buy new technologies to implement inside the state administration.

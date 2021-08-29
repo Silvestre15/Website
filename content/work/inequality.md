@@ -10,7 +10,7 @@ Thomas Piketty's first part of [Capital et Idéologie](/reads "Check out what I'
       var iFrameID = document.getElementById('custom_resize');
       if(iFrameID) {
             iFrameID.height = "";
-            iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + 50 + "px";
+            iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + "px";
             window.frames[0].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue('background-color')
       }   
   }
