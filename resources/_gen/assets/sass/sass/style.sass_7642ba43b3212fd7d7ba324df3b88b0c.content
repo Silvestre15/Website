@@ -91,8 +91,7 @@ nav {
   border-width: 0;
   overflow: hidden;
   width: 100%;
-  max-width: 100%;
-  display: block; }
+  max-width: 100%; }
 
 .tag {
   background-color: transparent;
@@ -339,7 +338,7 @@ article {
   position: fixed;
   z-index: -1; }
 
-iframe {
+.iframe-left {
   border-width: 0;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -348,15 +347,33 @@ iframe {
   display: block;
   overflow: hidden; }
   @media screen and (min-width: 650px) {
-    iframe {
+    .iframe-left {
       width: 70%;
       float: left;
       margin-right: 40px; } }
   @media screen and (min-width: 1050px) {
-    iframe {
+    .iframe-left {
       width: 50%;
       float: left;
       margin-right: 40px; } }
+.iframe-right {
+  border-width: 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+  max-width: 100%;
+  display: block;
+  overflow: hidden; }
+  @media screen and (min-width: 650px) {
+    .iframe-right {
+      width: 70%;
+      float: right;
+      margin-left: 40px; } }
+  @media screen and (min-width: 1050px) {
+    .iframe-right {
+      width: 50%;
+      float: right;
+      margin-left: 40px; } }
 .iframe-center {
   border-width: 0;
   margin-top: 10px;
