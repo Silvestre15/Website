@@ -1,6 +1,6 @@
 library(tidyverse)
 
-df_inequality <- read.csv("~/Dropbox/R/WID/income_inequality.csv") %>%
+df_inequality <- read.csv("https://github.com/Silvestre15/Website/blob/main/data/income_inequality.csv") %>%
   gather(key = "Country", value = "Value", -Year) %>%
   mutate(Value=(Value*100))
 
