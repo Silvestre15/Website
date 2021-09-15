@@ -396,7 +396,7 @@ article {
   margin-top: 10px;
   margin-bottom: 10px;
   width: 100%;
-  height: 620px;
+  height: 640px;
   margin-right: auto;
   margin-left: auto;
   max-width: 100%;

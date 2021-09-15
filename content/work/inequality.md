@@ -1,6 +1,6 @@
 ---
 title: "Economic inequality in the world"
-date: 2021-08-14T19:14:28+02:00
+date: 2021-09-15T19:14:28+02:00
 showDate: true
 ---
 Thomas Piketty's first part of [Capital et Idéologie](/reads "Check out what I'm currently reading") talks about the unequal distribution of wealth between individuals. Below are some of the graphs that caught my eye because of how much they speak for themselves. 
@@ -52,6 +52,10 @@ This graph allows one to see how the share of the top decile (that is, the top 1
 <iframe src="/top10share_index.html" scrolling=no id="custom_resize2" onload="iframeLoaded2()" allowTransparency="true" class="iframe-left"></iframe>
 In order to dive deeper into the analysis of the figure "Divergence", turning the data into a base one hundred index seemed appropriate to better visualize the growth experienced by the 10% wealthiest in each region. As mentioned earlier, Russia's wealthiest have seen their riches grow at rates unlike no other country in this analysis right after the disintegration of the communist bloc. In 30 years, the top decile's share in total wealth doubled when the index value reached 200 in 2008. 
 </p>
+<p>&nbsp;</p>
+<p>
+The main issue is not only that the richest have gotten richer as time passed by, but also that the poorest have gotten poorer during that same period. The app below allows one to compare how the richest 10% proportion in total wealth have performed in comparison with the poorer bottom 50%.
+<iframe src="https://silvestred.shinyapps.io/inequality/" scrolling=no allowTransparency="true" class="iframe-inequality-app" style="width:100%"></iframe></p>
 
 Piketty points out that there is a considerable difference between wealth and income with the following phrase:
 
@@ -60,5 +64,3 @@ Il est possible de vivre sans posséder, mais non sans se nourrir.
 </div>
 
 One may live without owning anything, but not without eating. With that the author draws the attention to the fact that a balanced distribution of the generated income is more crucial than that of wealth. 
-
-<iframe src="https://silvestred.shinyapps.io/inequality/" scrolling=no allowTransparency="true" class="iframe-inequality-app" style="height:800;width:100%;"></iframe>
