@@ -60,6 +60,6 @@ Met clients' needs and gave windsurf lessons in Spanish, French and English<br>
 •	Languages: Spanish (native), French (native), English (fluent) and Dutch (beginner)<br>
 •	Advanced user of Microsoft Office<br>
 •	Driving license<br>
-•	Interests: photography, music, reading, sailing (Patrón de Embarcaciones de Recreo) and data visualization (see "Work" below).<br>
+•	Interests: photography, music, [reading](/reads "Check out what I'm currently reading"), sailing (Patrón de Embarcaciones de Recreo) and [data visualization](/work "Check out what I'm capable of") (see "Work" below).<br>
 
 

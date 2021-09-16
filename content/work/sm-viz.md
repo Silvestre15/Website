@@ -1,5 +1,6 @@
 ---
 title: "Visualizing the stock market structure"
+description: "Machine learning applied to IBEX 35"
 date: 2021-06-28T18:43:09+02:00
 showDate: true
 ---
@@ -28,9 +29,9 @@ The best part of this is that I can run the Python script on-the-go and get an i
 
 It is needless to say that this technique can be applied to multiple other ambitions such as:
 
-1.  Analysing any other stock market index in the world
-2.  Analysing the behaviours of the world stock market indexes between them
-3.  Analysing arbitrarly picked stocks
+1.  <p>Analysing any other stock market index in the world</p>
+2.  <p>Analysing the behaviours of the world stock market indexes between them</p>
+3.  <p>Analysing arbitrarly picked stocks</p>
 
 Nonetheless, I'll be looking forward to finding other applications for this algorithm that go beyond the analysis of the stock market.
 
