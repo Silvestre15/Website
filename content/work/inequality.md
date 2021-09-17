@@ -57,7 +57,7 @@ In order to dive deeper into the analysis of the figure "Divergence", turning th
 The main issue is not only that the richest have gotten richer as time passed by, but also that the poorest have gotten poorer during that same period. The app below allows one to compare how the richest 10% proportion in total wealth have performed in comparison with the poorer bottom 50%.
 <iframe src="https://silvestred.shinyapps.io/inequality/" scrolling=no allowTransparency="true" class="iframe-inequality-app" style="width:100%"></iframe></p>
 
-Piketty points out that there is a considerable difference between wealth and income with the following phrase:
+Piketty points out to the fact that there is a considerable difference between wealth and income with the following phrase:
 
 <div class="quote">
 Il est possible de vivre sans posséder, mais non sans se nourrir.
