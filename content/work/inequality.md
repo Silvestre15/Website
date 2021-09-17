@@ -1,6 +1,7 @@
 ---
 title: "Economic inequality in the world"
-date: 2021-09-14T19:14:28+02:00
+description: "What the title says"
+date: 2021-09-16T19:14:28+02:00
 showDate: true
 ---
 Thomas Piketty's first part of [Capital et Idéologie](/reads "Check out what I'm currently reading") talks about the unequal distribution of wealth between individuals. Below are some of the graphs that caught my eye because of how much they speak for themselves. 
@@ -63,4 +64,4 @@ Piketty points out to the fact that there is a considerable difference between w
 Il est possible de vivre sans posséder, mais non sans se nourrir.
 </div>
 
-One may live without owning anything, but not without eating. With that the author draws the attention to the fact that a balanced distribution of the generated income is more crucial than that of wealth. 
+One may live without owning anything, but not without eating. With that the author draws the attention to the fact that a balanced distribution of the generated income is more crucial than that of wealth. In the app above we can compare the differences in magnitude between the two. 
