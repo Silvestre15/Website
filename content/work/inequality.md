@@ -1,7 +1,7 @@
 ---
 title: "Economic inequality in the world"
 description: "What the title says"
-date: 2021-09-16T19:14:28+02:00
+date: 2021-09-21T19:14:28+02:00
 showDate: true
 ---
 Thomas Piketty's first part of [Capital et Idéologie](/reads "Check out what I'm currently reading") talks about the unequal distribution of wealth between individuals. Below are some of the graphs that caught my eye because of how much they speak for themselves. 
@@ -55,7 +55,7 @@ In order to dive deeper into the analysis of the figure "Divergence", turning th
 </p>
 <p>&nbsp;</p>
 <p>
-The main issue is not only that the richest have gotten richer as time passed by, but also that the poorest have gotten poorer during that same period. The app below allows one to compare how the richest 10% proportion in total wealth have performed in comparison with the poorer bottom 50%.
+The main issue is not only that the richest have gotten richer as time passed by, but also that the poorest have gotten poorer during that same period. The app below allows one to compare how the richest 10% proportion in total wealth have performed in comparison with the poorer 50%.
 <iframe src="https://silvestred.shinyapps.io/inequality/" scrolling=no allowTransparency="true" class="iframe-inequality-app" style="width:100%"></iframe></p>
 
 Piketty points out to the fact that there is a considerable difference between wealth and income with the following phrase:
