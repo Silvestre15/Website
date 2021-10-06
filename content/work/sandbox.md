@@ -1,5 +1,5 @@
 ---
-title: "Sandbox"
+title: "Sandboxing in the public administration"
 description: "Brief summary of a 2021 academic paper"
 date: '2021-04-29T18:41:09+02:00'
 showDate: true
