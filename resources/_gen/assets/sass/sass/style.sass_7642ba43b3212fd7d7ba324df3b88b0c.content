@@ -99,11 +99,13 @@ nav {
   bottom: 0; }
 
 .flex-container {
-  display: flex;
+  display: inline;
   flex-direction: column;
   justify-content: center;
   align-items: left; }
-
+  @media screen and (max-width: 650px) {
+    .flex-container {
+      display: flex; } }
 .bottom-menu {
   display: flex;
   flex-direction: column;
@@ -188,10 +190,11 @@ nav {
 
 .big-link {
   font-family: "Helvetica", "sans serif";
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 300;
   margin-bottom: 2rem;
-  line-height: 1.5em; }
+  line-height: 1.5em;
+  margin: 2vh 2vh 2vh 2vh; }
 
 #title {
   margin-top: 3rem;
@@ -409,6 +412,16 @@ article {
     .iframe-inequality-app {
       width: 50%;
       float: center; } }
+.landing-text {
+  width: 50%;
+  margin-top: 30vh;
+  font-size: 1.5rem;
+  margin-bottom: 3vh;
+  display: flex;
+  justify-content: center; }
+  @media screen and (max-width: 650px) {
+    .landing-text {
+      margin-top: 10vh; } }
 #overlay {
   position: fixed;
   height: 100%;

@@ -99,10 +99,12 @@ nav
     bottom: 0
 
 .flex-container
-    display: flex
+    display: inline
     flex-direction: column
     justify-content: center
     align-items: left
+    @media screen and (max-width: 650px)
+            display: flex
 
 .bottom-menu
     display: flex
