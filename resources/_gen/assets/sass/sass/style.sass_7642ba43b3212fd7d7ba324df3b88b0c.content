@@ -382,17 +382,19 @@ article {
   margin-top: 10px;
   margin-bottom: 10px;
   width: 100%;
+  float: center;
   margin-right: auto;
   margin-left: auto;
   max-width: 100%;
   overflow: hidden; }
   @media screen and (min-width: 650px) {
     .iframe-center {
-      width: 70%;
-      float: center; } }
+      width: 80%;
+      float: center;
+      display: block; } }
   @media screen and (min-width: 1050px) {
     .iframe-center {
-      width: 50%;
+      width: 60%;
       float: center; } }
 .iframe-inequality-app {
   border-width: 0;
