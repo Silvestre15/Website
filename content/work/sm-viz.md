@@ -1,6 +1,6 @@
 ---
 title: "Visualizing the stock market structure"
-description: "Machine learning applied to IBEX 35"
+description: "Machine learning applied to the visualization of the IBEX 35"
 date: 2021-06-28T18:43:09+02:00
 showDate: true
 ---
@@ -12,7 +12,7 @@ This project analyses the structure of the main Spanish stock market index by me
 
 The thicker the line between two companies and the brighter its colour, the greater the covariance between the daily fluctuations of said companies. The algorithm also clusters the companies based on the similarity of their impact on the index. Said clusters can be identified thanks to the colour of the points that represent the companies. The analysed period is from the 31st of January of 2020 (first recorded case of Covid-19 in Spain) to the 31st of January of 2021.
 
-The plotting was done with matplotlib, but automatic label placement gets quite messy when there are many points to label in concentrated clusters. Therefore I made use of Inkscape to manually replace labels and make the graph clearer.
+The plotting was done with [matplotlib](https://matplotlib.org/ "Check matplotlib's website"), but automatic label placement gets quite messy when there are many points to label in concentrated clusters. Therefore I made use of [Inkscape](https://inkscape.org/ "Check Inkscape's website") to manually replace labels and make the graph clearer.
 <p>&nbsp;</p>
 
 ### Live analysis
