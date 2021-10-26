@@ -25,7 +25,7 @@ _Extracurricular traineeship_<br>
 **[Auditcom](https://www.companyweb.be/societe/auditcom/sprl/439360312 "Check Auditcom's website")** - Summer of 2020 - Belgium<br>
 _Extracurricular traineeship_<br>
 • Improved Microsoft Excel abilities and company accounting knowledge<br>
-• Created a fully modulable treasury spreadsheet for newly created companies<br>
+• Created a fully modulable treasury spreadsheet for newly established companies<br>
 <p>&nbsp;</p>
 
 **[Mercadona](https://www.mercadona.es/ "Check Mercadona's website")** - Summer of 2019 - Spain<br>

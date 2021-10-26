@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Silvestre Dimitrieff</title>
-    <link>https://silvestred.netlify.app/tags/</link>
+    <link>https://silvestred.com/tags/</link>
     <description>Recent content in Tags on Silvestre Dimitrieff</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://silvestred.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://silvestred.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Work on Silvestre Dimitrieff</title>
-    <link>https://silvestred.netlify.app/work/</link>
+    <link>https://silvestred.com/work/</link>
     <description>Recent content in Work on Silvestre Dimitrieff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Sep 2021 19:14:28 +0200</lastBuildDate><atom:link href="https://silvestred.netlify.app/work/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Sep 2021 19:14:28 +0200</lastBuildDate><atom:link href="https://silvestred.com/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Economic inequality in the world</title>
-      <link>https://silvestred.netlify.app/work/inequality/</link>
+      <link>https://silvestred.com/work/inequality/</link>
       <pubDate>Wed, 29 Sep 2021 19:14:28 +0200</pubDate>
       
-      <guid>https://silvestred.netlify.app/work/inequality/</guid>
+      <guid>https://silvestred.com/work/inequality/</guid>
       <description>Thomas Piketty&amp;rsquo;s first part of Capital et Idéologie talks about the unequal distribution of wealth between individuals. Below are some of the graphs that caught my eye because of how much they speak for themselves.
 function iframeLoaded() { var iFrameID = document.getElementById(&#39;custom_resize&#39;); if(iFrameID) { iFrameID.height = &#34;&#34;; iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + &#34;px&#34;; window.frames[0].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue(&#39;background-color&#39;) } }    The above graph, dubbed the elephant&#39;s curve because of its looks, represents the growth in wealth experienced by the different income groups since 1980.</description>
     </item>
     
     <item>
       <title>Visualizing the stock market structure</title>
-      <link>https://silvestred.netlify.app/work/sm-viz/</link>
+      <link>https://silvestred.com/work/sm-viz/</link>
       <pubDate>Mon, 28 Jun 2021 18:43:09 +0200</pubDate>
       
-      <guid>https://silvestred.netlify.app/work/sm-viz/</guid>
+      <guid>https://silvestred.com/work/sm-viz/</guid>
       <description>This project analyses the structure of the main Spanish stock market index by means of supervised and unsupervised machine learning techniques included inside scikit-learn&amp;rsquo;s Python package. The original code was written by Gaël Varoquaux, one of the creators of the widely used package.
   The thicker the line between two companies and the brighter its colour, the greater the covariance between the daily fluctuations of said companies. The algorithm also clusters the companies based on the similarity of their impact on the index.</description>
     </item>
     
     <item>
       <title>Sandboxing in the public administration</title>
-      <link>https://silvestred.netlify.app/work/sandbox/</link>
+      <link>https://silvestred.com/work/sandbox/</link>
       <pubDate>Thu, 29 Apr 2021 18:41:09 +0200</pubDate>
       
-      <guid>https://silvestred.netlify.app/work/sandbox/</guid>
+      <guid>https://silvestred.com/work/sandbox/</guid>
       <description>This project, which is part of my curricular work, looks at the potential implementation of sandboxes in the Spanish administration in order to increase its efficiency. More precisely, its aim is to assess the potential benefits that may accompany the use of such systems when it comes to develop or buy new technologies to implement inside the state administration.
 For this, extensive researches have been made inside the state&amp;rsquo;s official websites, information regarding annual budgets to Research and Development (R&amp;amp;D) expenses at the national level has been retrieved in order to corroborate the whole paper.</description>
     </item>

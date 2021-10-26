@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Silvestre Dimitrieff</title>
-    <link>https://silvestred.netlify.app/</link>
+    <link>https://silvestred.com/</link>
     <description>Recent content on Silvestre Dimitrieff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Sep 2021 19:14:28 +0200</lastBuildDate><atom:link href="https://silvestred.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Sep 2021 19:14:28 +0200</lastBuildDate><atom:link href="https://silvestred.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Economic inequality in the world</title>
-      <link>https://silvestred.netlify.app/work/inequality/</link>
+      <link>https://silvestred.com/work/inequality/</link>
       <pubDate>Wed, 29 Sep 2021 19:14:28 +0200</pubDate>
       
-      <guid>https://silvestred.netlify.app/work/inequality/</guid>
+      <guid>https://silvestred.com/work/inequality/</guid>
       <description>Thomas Piketty&amp;rsquo;s first part of Capital et Idéologie talks about the unequal distribution of wealth between individuals. Below are some of the graphs that caught my eye because of how much they speak for themselves.
 function iframeLoaded() { var iFrameID = document.getElementById(&#39;custom_resize&#39;); if(iFrameID) { iFrameID.height = &#34;&#34;; iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + &#34;px&#34;; window.frames[0].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue(&#39;background-color&#39;) } }    The above graph, dubbed the elephant&#39;s curve because of its looks, represents the growth in wealth experienced by the different income groups since 1980.</description>
     </item>
     
     <item>
       <title>Curriculum Vitae</title>
-      <link>https://silvestred.netlify.app/cv/</link>
+      <link>https://silvestred.com/cv/</link>
       <pubDate>Sat, 21 Aug 2021 18:41:09 +0200</pubDate>
       
-      <guid>https://silvestred.netlify.app/cv/</guid>
+      <guid>https://silvestred.com/cv/</guid>
       <description>My name is Silvestre Dimitrieff Castellote and I&amp;rsquo;m a student currently finishing a BBA in Valencia, Spain.
 Education&amp;nbsp;¶ EDEM Escuela de Empresarios - Since 2018 - Spain
 Bachelor in Business Administration, Entrepreneurship oriented (Bilingual English/Spanish)
@@ -37,20 +37,20 @@ Extracurricular traineeship
     
     <item>
       <title>Visualizing the stock market structure</title>
-      <link>https://silvestred.netlify.app/work/sm-viz/</link>
+      <link>https://silvestred.com/work/sm-viz/</link>
       <pubDate>Mon, 28 Jun 2021 18:43:09 +0200</pubDate>
       
-      <guid>https://silvestred.netlify.app/work/sm-viz/</guid>
+      <guid>https://silvestred.com/work/sm-viz/</guid>
       <description>This project analyses the structure of the main Spanish stock market index by means of supervised and unsupervised machine learning techniques included inside scikit-learn&amp;rsquo;s Python package. The original code was written by Gaël Varoquaux, one of the creators of the widely used package.
   The thicker the line between two companies and the brighter its colour, the greater the covariance between the daily fluctuations of said companies. The algorithm also clusters the companies based on the similarity of their impact on the index.</description>
     </item>
     
     <item>
       <title>Reads</title>
-      <link>https://silvestred.netlify.app/reads/</link>
+      <link>https://silvestred.com/reads/</link>
       <pubDate>Thu, 10 Jun 2021 18:41:09 +0200</pubDate>
       
-      <guid>https://silvestred.netlify.app/reads/</guid>
+      <guid>https://silvestred.com/reads/</guid>
       <description>In this section you can find all the books I have enjoyed reading as well as those I&amp;rsquo;m currently learning from.
 Currently reading&amp;nbsp;¶ Capital et Idéologie - Thomas Piketty
 Enjoyed reading&amp;nbsp;¶ Sapiens, 21 Lessons for the 21st Century and Homo Deus - Yuval Noah Harari
@@ -61,20 +61,20 @@ El Viajero Universal, o Noticia del Mundo Antiguo y Nuevo (Tomo XVII, Cuaderno X
     
     <item>
       <title>Sandboxing in the public administration</title>
-      <link>https://silvestred.netlify.app/work/sandbox/</link>
+      <link>https://silvestred.com/work/sandbox/</link>
       <pubDate>Thu, 29 Apr 2021 18:41:09 +0200</pubDate>
       
-      <guid>https://silvestred.netlify.app/work/sandbox/</guid>
+      <guid>https://silvestred.com/work/sandbox/</guid>
       <description>This project, which is part of my curricular work, looks at the potential implementation of sandboxes in the Spanish administration in order to increase its efficiency. More precisely, its aim is to assess the potential benefits that may accompany the use of such systems when it comes to develop or buy new technologies to implement inside the state administration.
 For this, extensive researches have been made inside the state&amp;rsquo;s official websites, information regarding annual budgets to Research and Development (R&amp;amp;D) expenses at the national level has been retrieved in order to corroborate the whole paper.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://silvestred.netlify.app/about/</link>
+      <link>https://silvestred.com/about/</link>
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
-      <guid>https://silvestred.netlify.app/about/</guid>
+      <guid>https://silvestred.com/about/</guid>
       <description>Hello, I&amp;rsquo;m Sam. I&amp;rsquo;m a theme for Hugo. I&amp;rsquo;m an extremely customizable, content-focused theme that lets you showcase your work your way. I&amp;rsquo;m open source on GitHub.
 I have slick minimalist templates for list pages (such as a list of blog posts) and single pages (a page to read one blog post). You can use tags on your content, and view content by tags.
 I also have a simple responsive gallery feature.</description>
