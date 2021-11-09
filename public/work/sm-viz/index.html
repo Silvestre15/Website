@@ -23,7 +23,7 @@
 
 
 
-<link rel="stylesheet" href="/css/main.min.95e830ee3472e5b4b7dc62c4847608055bf13d1cc1775d68bfc40e2364a92e4e.css" integrity="sha256-legw7jRy5bS33GLEhHYIBVvxPRzBd11ov8QOI2SpLk4=" crossorigin="anonymous" media="screen">
+<link rel="stylesheet" href="/sass/style.sass" integrity="" crossorigin="anonymous" media="screen">
 
 
 
@@ -101,7 +101,21 @@
 </li>
 </ol>
 <p>Nonetheless, I&rsquo;ll be looking forward to finding other applications for this algorithm that go beyond the analysis of the stock market.</p>
-</article>
+<pre tabindex="0"><code class="language-{r}" data-lang="{r}">library(reticulate)
+use_python(&quot;/usr/bin/python3&quot;) # Change accordingly to your Python version
+matplotlib &lt;- import(&quot;matplotlib&quot;)
+matplotlib$use(&quot;Agg&quot;, force = TRUE)
+</code></pre><pre tabindex="0"><code class="language-{python}" data-lang="{python}">import pandas as pd
+import matplotlib.pyplot as plt
+df=pd.DataFrame([[1, 2], [3, 4], [4, 3], [2, 3]])
+fig = plt.figure(figsize=(14,8))
+for i in df.columns:
+    ax=plt.subplot(2,1,i+1) 
+    df[[i]].plot(ax=ax)
+    print(i)
+
+plt.show()
+</code></pre></article>
         
 
         

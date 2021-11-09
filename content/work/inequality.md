@@ -1,6 +1,6 @@
 ---
 title: "Economic inequality in the world"
-description: "What the title says"
+description: "Distribution of wealth and income in different regions of the planet"
 date: 2021-10-25T19:14:28+02:00
 showDate: true
 ---
@@ -22,7 +22,7 @@ Thomas Piketty's first part of [Capital et Idéologie](/reads "Check out what I'
 The above graph, dubbed the elephant's curve because of its looks, represents the growth in wealth experienced by the different income groups since 1980. Piketty points to three important parts of the elephant. The hips show the growth of the lower class, the group comprised between the 10th and 50th top percentile. The back, standing at a lower point than the hips, shows the "forgotten middle class" according to the author because of the great difference in growth rates experienced by the latter. The trunk is quite interesting, as it shows how the wealthy have seen their riches grow in comparison with the rest of the people. This last part of the curve is almost exponential-like for the richest have seen their wealth grow at the highest rates compared with the rest of the population.
 </p>
 
-The app below allows one to see how the share of the top decile (that is, the top 10%) in the total wealth grew over the same period as analyzed in the elephant's curve graph. With greater detail, the graph displays information about different regions and sharp contrasts arise when overlaying the paths. Russia (green) has seen the sharpest rise of all when the Berlin wall fell in 1989. Europe on the other hand has remained stable both politically and in the discussed matter in comparison to the rest of the analyzed regions. India has outpaced its peers, resulting in that the top decile owns more than half of the country's wealth since 2009.
+<p>The app below allows one to see how the share of the top decile (that is, the top 10%) of the total wealth grew over the same period as analyzed in the elephant's curve graph. With greater detail, the graph displays information about different regions and sharp contrasts arise when overlaying the paths. Russia (green) has seen the sharpest rise of all when the Berlin wall fell in 1989. Europe on the other hand has remained stable both politically and in the discussed matter in comparison to the rest of the analyzed regions. India has outpaced its peers, resulting in that the top decile owns more than half of the country's wealth since 2009.
 </p>
 
 <p>
