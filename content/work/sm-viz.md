@@ -34,24 +34,3 @@ It is needless to say that this technique can be applied to multiple other ambit
 3.  <p>Analysing arbitrarly picked stocks</p>
 
 Nonetheless, I'll be looking forward to finding other applications for this algorithm that go beyond the analysis of the stock market.
-
-
-```{r}
-library(reticulate)
-use_python("/usr/bin/python3") # Change accordingly to your Python version
-matplotlib <- import("matplotlib")
-matplotlib$use("Agg", force = TRUE)
-```
-
-```{python}
-import pandas as pd
-import matplotlib.pyplot as plt
-df=pd.DataFrame([[1, 2], [3, 4], [4, 3], [2, 3]])
-fig = plt.figure(figsize=(14,8))
-for i in df.columns:
-    ax=plt.subplot(2,1,i+1) 
-    df[[i]].plot(ax=ax)
-    print(i)
-
-plt.show()
-```
