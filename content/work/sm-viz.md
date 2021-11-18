@@ -1,7 +1,7 @@
 ---
 title: "Visualizing the stock market structure"
 description: "Machine learning applied to the visualization of the IBEX 35"
-date: 2021-06-28T18:43:09+02:00
+date: 2021-11-17T18:43:09+02:00
 showDate: true
 ---
 This project analyses the structure of the main Spanish stock market index by means of supervised and unsupervised machine learning techniques included inside [scikit-learn's](https://scikit-learn.org/stable/auto_examples/applications/plot_stock_market.html#sphx-glr-auto-examples-applications-plot-stock-market-py "Check scikit-learn's website") Python package. The original code was written by [Gaël Varoquaux](http://gael-varoquaux.info/about.html "Check Gaël's website"), one of the creators of the widely used package.
