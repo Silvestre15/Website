@@ -24,7 +24,7 @@ function iframeLoaded() { var iFrameID = document.getElementById(&#39;custom_res
       
       <guid>https://silvestred.com/work/sm-viz/</guid>
       <description>This project analyses the structure of the main Spanish stock market index by means of supervised and unsupervised machine learning techniques included inside scikit-learn&amp;rsquo;s Python package. The original code was written by Gaël Varoquaux, one of the creators of the widely used package.
-  The thicker the line between two companies and the brighter its colour, the greater the covariance between the daily fluctuations of said companies. The algorithm also clusters the companies based on the similarity of their impact on the index.</description>
+function iframeLoaded() { var iFrameID = document.getElementById(&#39;custom_resize1&#39;); if(iFrameID) { iFrameID.height = &#34;&#34;; iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + &#34;px&#34;; window.frames[0].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue(&#39;background-color&#39;) } }    The thicker the line between two companies and the brighter its colour, the greater the covariance between the daily fluctuations of said companies.</description>
     </item>
     
     <item>

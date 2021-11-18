@@ -74,10 +74,19 @@
         <article class="date-post">
         Last updated on Jun 28, 2021</article>
         <article role="article" class="flex-container"><p>This project analyses the structure of the main Spanish stock market index by means of supervised and unsupervised machine learning techniques included inside <a href="https://scikit-learn.org/stable/auto_examples/applications/plot_stock_market.html#sphx-glr-auto-examples-applications-plot-stock-market-py" title="Check scikit-learn&#39;s website" target="_blank" rel="noopener">scikit-learn&rsquo;s</a> Python package. The original code was written by <a href="http://gael-varoquaux.info/about.html" title="Check Gaël&#39;s website" target="_blank" rel="noopener">Gaël Varoquaux</a>, one of the creators of the widely used package.</p>
-<center>
-<img src="/ibex_1_year.svg"/>
-</center>
-<p>The thicker the line between two companies and the brighter its colour, the greater the covariance between the daily fluctuations of said companies. The algorithm also clusters the companies based on the similarity of their impact on the index. Said clusters can be identified thanks to the colour of the points that represent the companies. The analysed period is from the 31st of January of 2020 (first recorded case of Covid-19 in Spain) to the 31st of January of 2021.</p>
+<script type="text/javascript">
+  function iframeLoaded() {
+      var iFrameID = document.getElementById('custom_resize1');
+      if(iFrameID) {
+            iFrameID.height = "";
+            iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + "px";
+            window.frames[0].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue('background-color')
+      }   
+  }
+</script>
+<p>
+<iframe src="/ibex_1_year.html" scrolling=no id="custom_resize1" onload="iframeLoaded()" allowTransparency="true" class="iframe-ibex"></iframe>
+The thicker the line between two companies and the brighter its colour, the greater the covariance between the daily fluctuations of said companies. The algorithm also clusters the companies based on the similarity of their impact on the index. Said clusters can be identified thanks to the colour of the points that represent the companies. The analysed period is from the 31st of January of 2020 (first recorded case of Covid-19 in Spain) to the 31st of January of 2021.</p>
 <p>The plotting was done with <a href="https://matplotlib.org/" title="Check matplotlib&#39;s website" target="_blank" rel="noopener">matplotlib</a>, but automatic label placement gets quite messy when there are many points to label in concentrated clusters. Therefore I made use of <a href="https://inkscape.org/" title="Check Inkscape&#39;s website" target="_blank" rel="noopener">Inkscape</a> to manually replace labels and make the graph clearer.</p>
 <p>&nbsp;</p>
 
@@ -101,21 +110,7 @@
 </li>
 </ol>
 <p>Nonetheless, I&rsquo;ll be looking forward to finding other applications for this algorithm that go beyond the analysis of the stock market.</p>
-<pre tabindex="0"><code class="language-{r}" data-lang="{r}">library(reticulate)
-use_python(&quot;/usr/bin/python3&quot;) # Change accordingly to your Python version
-matplotlib &lt;- import(&quot;matplotlib&quot;)
-matplotlib$use(&quot;Agg&quot;, force = TRUE)
-</code></pre><pre tabindex="0"><code class="language-{python}" data-lang="{python}">import pandas as pd
-import matplotlib.pyplot as plt
-df=pd.DataFrame([[1, 2], [3, 4], [4, 3], [2, 3]])
-fig = plt.figure(figsize=(14,8))
-for i in df.columns:
-    ax=plt.subplot(2,1,i+1) 
-    df[[i]].plot(ax=ax)
-    print(i)
-
-plt.show()
-</code></pre></article>
+</article>
         
 
         

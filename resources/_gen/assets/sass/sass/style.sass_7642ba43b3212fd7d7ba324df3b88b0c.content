@@ -415,6 +415,15 @@ article {
     .iframe-inequality-app {
       width: 50%;
       float: center; } }
+.iframe-ibex {
+  height: 600px;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-width: 0;
+  margin-right: auto;
+  margin-left: auto; }
+
 .landing-text {
   width: 50%;
   margin-top: 30vh;

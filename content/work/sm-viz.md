@@ -6,13 +6,22 @@ showDate: true
 ---
 This project analyses the structure of the main Spanish stock market index by means of supervised and unsupervised machine learning techniques included inside [scikit-learn's](https://scikit-learn.org/stable/auto_examples/applications/plot_stock_market.html#sphx-glr-auto-examples-applications-plot-stock-market-py "Check scikit-learn's website") Python package. The original code was written by [Gaël Varoquaux](http://gael-varoquaux.info/about.html "Check Gaël's website"), one of the creators of the widely used package.
 
-<center>
-<img src="/ibex_1_year.svg"/>
-</center>
+<script type="text/javascript">
+  function iframeLoaded() {
+      var iFrameID = document.getElementById('custom_resize1');
+      if(iFrameID) {
+            iFrameID.height = "";
+            iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + "px";
+            window.frames[0].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue('background-color')
+      }   
+  }
+</script>
 
-The thicker the line between two companies and the brighter its colour, the greater the covariance between the daily fluctuations of said companies. The algorithm also clusters the companies based on the similarity of their impact on the index. Said clusters can be identified thanks to the colour of the points that represent the companies. The analysed period is from the 31st of January of 2020 (first recorded case of Covid-19 in Spain) to the 31st of January of 2021.
+<p>
+<iframe src="/ibex_1_year.html" scrolling=no id="custom_resize1" onload="iframeLoaded()" allowTransparency="true" class="iframe-ibex"></iframe>
+The thicker the line between two companies and the brighter its colour, the greater the covariance between the daily fluctuations of said companies. The algorithm also clusters the companies based on the similarity of their impact on the index. Said clusters can be identified thanks to the colour of the points that represent the companies. The analysed period is from the 31st of January of 2020 (first recorded case of Covid-19 in Spain) to the 31st of January of 2021.</p>
 
-The plotting was done with [matplotlib](https://matplotlib.org/ "Check matplotlib's website"), but automatic label placement gets quite messy when there are many points to label in concentrated clusters. Therefore I made use of [Inkscape](https://inkscape.org/ "Check Inkscape's website") to manually replace labels and make the graph clearer.
+The plotting was done with [matplotlib](https://matplotlib.org/ "Check matplotlib's website"), but in order to make it interactive I turned to [mpld3](https://mpld3.github.io/ "Check mpld3's website") because of how easy it was to implement the tooltip functionality. However, the background can't seem to be changed to another color.
 <p>&nbsp;</p>
 
 ### Live analysis
