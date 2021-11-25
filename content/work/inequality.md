@@ -38,4 +38,4 @@ Il est possible de vivre sans posséder, mais non sans se nourrir.
 <p>One may live without owning anything, but not without eating. With that the author draws the attention to the fact that a balanced distribution of the generated income is more crucial than that of wealth. In the app above we can compare the differences in magnitude between the two. 
 </p>
 
-<p>The second tab of the application gives information about income taxes in the Unites States. As can be seen in the income distribution, the biggest economy in the world is quite unequal when it comes to the distribution of wealth and income. When viewing the "gross income share" in the USA, it is surprising to see how close the top 0.1% are of the bottom 50%. </p>
+<p>The second tab of the application gives information about income taxes in the Unites States. As it can be seen in the income distribution, the biggest economy in the world is quite unequal when it comes to the distribution of wealth and income. When viewing the "gross income share" in the USA, it is surprising to see how close the top 0.1% are of the bottom 50%. </p>

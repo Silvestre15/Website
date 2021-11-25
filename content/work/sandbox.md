@@ -14,7 +14,7 @@ For this, extensive researches have been made inside the state's official websit
 <p>&nbsp;</p>
 
 <iframe src="/GAV.html" scrolling=no id="custom_resize" onload="iframeLoaded()" allowTransparency="true" class="iframe-center"></iframe>
-<p>&nbsp;</p>
+
 
 <script type="text/javascript">
   function iframeLoaded() {
@@ -29,7 +29,7 @@ For this, extensive researches have been made inside the state's official websit
 
 
 <iframe src="/rd_expen.html" scrolling=no id="custom_resize1" onload="iframeLoaded1()" class="iframe-center"></iframe>
-<p>&nbsp;</p>
+
 
 <script type="text/javascript">
   function iframeLoaded1() {

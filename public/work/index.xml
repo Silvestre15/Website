@@ -6,7 +6,17 @@
     <description>Recent content in Work on Silvestre Dimitrieff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Nov 2021 19:14:28 +0200</lastBuildDate><atom:link href="https://silvestred.com/work/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Nov 2021 18:43:09 +0200</lastBuildDate><atom:link href="https://silvestred.com/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visualizing the stock market structure</title>
+      <link>https://silvestred.com/work/sm-viz/</link>
+      <pubDate>Wed, 17 Nov 2021 18:43:09 +0200</pubDate>
+      
+      <guid>https://silvestred.com/work/sm-viz/</guid>
+      <description>This project analyses the structure of the main Spanish stock market index by means of supervised and unsupervised machine learning techniques included inside scikit-learn&amp;rsquo;s Python package. The original code was written by Gaël Varoquaux, one of the creators of the widely used package.
+function iframeLoaded() { var iFrameID = document.getElementById(&#39;custom_resize1&#39;); if(iFrameID) { iFrameID.height = &#34;&#34;; iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + &#34;px&#34;; window.frames[0].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue(&#39;background-color&#39;) } }    The thicker the line between two companies and the brighter its colour, the greater the covariance between the daily fluctuations of said companies.</description>
+    </item>
+    
     <item>
       <title>Economic inequality in the world</title>
       <link>https://silvestred.com/work/inequality/</link>
@@ -15,16 +25,6 @@
       <guid>https://silvestred.com/work/inequality/</guid>
       <description>Thomas Piketty&amp;rsquo;s first part of Capital et Idéologie talks about the unequal distribution of wealth between individuals. Below are some of the graphs that caught my eye because of how much they speak for themselves.
 function iframeLoaded() { var iFrameID = document.getElementById(&#39;custom_resize&#39;); if(iFrameID) { iFrameID.height = &#34;&#34;; iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + &#34;px&#34;; window.frames[0].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue(&#39;background-color&#39;) } }    The above graph, dubbed the elephant&#39;s curve because of its looks, represents the growth in wealth experienced by the different income groups since 1980.</description>
-    </item>
-    
-    <item>
-      <title>Visualizing the stock market structure</title>
-      <link>https://silvestred.com/work/sm-viz/</link>
-      <pubDate>Mon, 28 Jun 2021 18:43:09 +0200</pubDate>
-      
-      <guid>https://silvestred.com/work/sm-viz/</guid>
-      <description>This project analyses the structure of the main Spanish stock market index by means of supervised and unsupervised machine learning techniques included inside scikit-learn&amp;rsquo;s Python package. The original code was written by Gaël Varoquaux, one of the creators of the widely used package.
-function iframeLoaded() { var iFrameID = document.getElementById(&#39;custom_resize1&#39;); if(iFrameID) { iFrameID.height = &#34;&#34;; iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + &#34;px&#34;; window.frames[0].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue(&#39;background-color&#39;) } }    The thicker the line between two companies and the brighter its colour, the greater the covariance between the daily fluctuations of said companies.</description>
     </item>
     
     <item>

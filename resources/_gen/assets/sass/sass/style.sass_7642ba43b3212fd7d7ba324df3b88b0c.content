@@ -145,14 +145,16 @@ nav {
     .footer {
       font-size: 1.8rem; } }
 .quote {
-  font-family: "Source Serif Pro Italic", "serif";
+  font-family: "Source Serif Pro";
   font-size: 1.3rem;
   color: #111;
-  width: 60%;
+  width: 50%;
   margin-top: 3vh;
   margin-bottom: 5vh;
   margin-left: auto;
   margin-right: auto;
+  float: center;
+  height: auto;
   border-top: 2px solid #d58936;
   border-bottom: 2px solid #d58936; }
   @media screen and (max-width: 800px) {
@@ -176,14 +178,20 @@ nav {
   margin-right: 0px;
   display: flex;
   justify-content: space-between; }
-  @media screen and (max-width: 550px) {
+  @media screen and (max-width: 800px) {
     .date-index {
       display: none; } }
 .navigation {
   text-align: left;
   display: flex;
+  margin-bottom: 1vh;
   justify-content: space-between;
   font-size: 1.2rem; }
+
+.background_iframe {
+  width: 100%;
+  height: 100%;
+  z-index: -1; }
 
 #splash {
   min-height: calc(100vh - 6em); }
@@ -191,7 +199,7 @@ nav {
 .big-link {
   font-family: "Helvetica", "sans serif";
   font-size: 3rem;
-  font-weight: 300;
+  font-weight: 400;
   margin-bottom: 2rem;
   line-height: 1.5em;
   margin: 2vh 2vh 2vh 2vh; }
@@ -380,7 +388,7 @@ article {
 .iframe-center {
   border-width: 0;
   margin-top: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 40px;
   width: 100%;
   float: center;
   margin-right: auto;
@@ -437,14 +445,11 @@ article {
       margin-top: 10vh;
       margin-bottom: -15vh;
       width: 80%; } }
-#overlay {
-  position: fixed;
-  height: 100%;
+.background_iframe {
   width: 100%;
-  top: 0;
-  left: 0;
-  background: rgba(0, 0, 0, 0.4);
-  z-index: -1; }
+  height: 15vw;
+  z-index: 1;
+  border-width: 0px; }
 
 @font-face {
   font-family: 'Crimson Pro';
@@ -469,6 +474,12 @@ article {
   font-style: normal;
   font-weight: 400;
   src: local("Source Serif Pro Italic"), url("/fonts/SourceSerifPro-BoldItalic.ttf"); }
+
+@font-face {
+  font-family: 'OpenSans Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: local("OpenSans Regular"), url("/fonts/OpenSans-Regular.ttf"); }
 
 .go-left {
   justify-content: flex-start;

@@ -16,7 +16,7 @@ _Misbehaving_ - [Richard H. Thaler](https://www.chicagobooth.edu/faculty/directo
 
 _The Condensed Wealth of Nations_ - [Adam Smith](https://www.adamsmith.org/about-adam-smith "Who is Adam Smith?")
 
-_El Viajero Universal, o Noticia del Mundo Antiguo y Nuevo (Tomo XVII, Cuaderno XLIX)_ - [Don Pedro Estala Presbítero](https://www.wikiwand.com/es/Pedro_Estala "Who is Don Pedro Estala Presbítero?")
+_El Viajero Universal, o Noticia del Mundo Antiguo y Nuevo (Tomo XVII, Cuaderno XLIX)_ - [Don Pedro Estala](https://www.wikiwand.com/es/Pedro_Estala "Who is Don Pedro Estala?")
 
 
 _Steve Jobs_ - [Walter Isaacson](https://www.aspeninstitute.org/our-people/walter-isaacson/ "Who is Walter Isaacson?")

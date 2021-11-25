@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://silvestred.com/work/inequality/</loc>
-    <lastmod>2021-11-10T19:14:28+02:00</lastmod>
-  </url><url>
     <loc>https://silvestred.com/</loc>
-    <lastmod>2021-11-10T19:14:28+02:00</lastmod>
+    <lastmod>2021-11-17T18:43:09+02:00</lastmod>
+  </url><url>
+    <loc>https://silvestred.com/work/sm-viz/</loc>
+    <lastmod>2021-11-17T18:43:09+02:00</lastmod>
   </url><url>
     <loc>https://silvestred.com/work/</loc>
+    <lastmod>2021-11-17T18:43:09+02:00</lastmod>
+  </url><url>
+    <loc>https://silvestred.com/work/inequality/</loc>
     <lastmod>2021-11-10T19:14:28+02:00</lastmod>
   </url><url>
     <loc>https://silvestred.com/cv/</loc>
     <lastmod>2021-08-21T18:41:09+02:00</lastmod>
-  </url><url>
-    <loc>https://silvestred.com/work/sm-viz/</loc>
-    <lastmod>2021-06-28T18:43:09+02:00</lastmod>
   </url><url>
     <loc>https://silvestred.com/reads/</loc>
     <lastmod>2021-06-10T18:41:09+02:00</lastmod>
