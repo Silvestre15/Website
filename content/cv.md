@@ -4,7 +4,7 @@ date: '2021-08-21T18:41:09+02:00'
 ---
 My name is Silvestre Dimitrieff Castellote and I'm a student currently finishing a BBA in Valencia, Spain. 
 
-## Education
+### Education
 
 **[EDEM Escuela de Empresarios](https://edem.eu/en/ "Check EDEM's website")** - Since 2018 - Spain<br>
 Bachelor in Business Administration, Entrepreneurship oriented (Bilingual English/Spanish)<br>
@@ -14,7 +14,7 @@ Bachelor in Business Administration, Entrepreneurship oriented (Bilingual Englis
 Secondary education (Bilingual English/French)
 <p>&nbsp;</p>
 
-## Experience
+### Experience
 
 **[Club Naútico de Jávea](https://cnjavea.net/ "Check CNJ's website")** - Summer of 2021 - Spain<br>
 _Extracurricular traineeship_<br>
@@ -55,7 +55,7 @@ _Summer job_<br>
 Met clients' needs and gave windsurf lessons in Spanish, French and English<br>
 <p>&nbsp;</p>
 
-## Abilities and general
+### Abilities and general
 
 •	Languages: Spanish (native), French (native), English (fluent) and Dutch (beginner)<br>
 •	Advanced user of Microsoft Office<br>

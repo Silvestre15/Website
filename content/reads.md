@@ -4,11 +4,11 @@ date: '2021-06-10T18:41:09+02:00'
 ---
 In this section you can find all the books I have enjoyed reading as well as those I'm currently learning from.
 
-## Currently reading
+### Currently reading
 
 _Capital et Idéologie_ - [Thomas Piketty](http://piketty.pse.ens.fr/en/ "Who is Thomas Piketty?")
 
-## Enjoyed reading
+### Enjoyed reading
 
 _Sapiens_, _21 Lessons for the 21st Century_ and _Homo Deus_ - [Yuval Noah Harari](https://www.ynharari.com/ "Who is Yuval Noah Harari?")
 
