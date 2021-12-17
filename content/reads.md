@@ -6,9 +6,11 @@ In this section you can find all the books I have enjoyed reading as well as tho
 
 ### Currently reading
 
-_Capital et Idéologie_ - [Thomas Piketty](http://piketty.pse.ens.fr/en/ "Who is Thomas Piketty?")
+
 
 ### Enjoyed reading
+
+_Capital et Idéologie_ - [Thomas Piketty](http://piketty.pse.ens.fr/en/ "Who is Thomas Piketty?")
 
 _Sapiens_, _21 Lessons for the 21st Century_ and _Homo Deus_ - [Yuval Noah Harari](https://www.ynharari.com/ "Who is Yuval Noah Harari?")
 
