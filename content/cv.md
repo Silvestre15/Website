@@ -3,6 +3,7 @@ title: "Curriculum Vitae"
 date: '2021-08-21T18:41:09+02:00'
 ---
 My name is Silvestre Dimitrieff Castellote and I'm a student currently finishing a BBA in Valencia, Spain. 
+<p>&nbsp;</p>
 
 ### Education
 
@@ -17,19 +18,19 @@ Secondary education (Bilingual English/French)
 ### Experience
 
 **[Club Naútico de Jávea](https://cnjavea.net/ "Check CNJ's website")** - Summer of 2021 - Spain<br>
-_Extracurricular traineeship_<br>
+_Extracurricular internship_<br>
 • Assisted in the accounting department of the sailing school<br>
 • Helped in the organization and execution of regatte during the 47th [Semana de Vela](https://www.abc.es/deportes/vela/vela-ligera/abci-115-regatistas-participaronn-47-semana-vela-club-nautico-javea-202108161253_noticia.html "More info on that")<br>
 <p>&nbsp;</p>
 
 **[Auditcom](https://www.companyweb.be/societe/auditcom/sprl/439360312 "Check Auditcom's website")** - Summer of 2020 - Belgium<br>
-_Extracurricular traineeship_<br>
+_Extracurricular internship_<br>
 • Improved Microsoft Excel abilities and company accounting knowledge<br>
 • Created a fully modulable treasury spreadsheet for newly established companies<br>
 <p>&nbsp;</p>
 
 **[Mercadona](https://www.mercadona.es/ "Check Mercadona's website")** - Summer of 2019 - Spain<br>
-_Extracurricular traineeship_<br>
+_Extracurricular internship_<br>
 Rotated between the positions of cashier, fruits and vegetables as well as bakery<br>
 <p>&nbsp;</p>
 
