@@ -17,6 +17,11 @@ Secondary education (Bilingual English/French)
 
 ### Experience
 
+**[FERMAX](https://www.fermax.com/intl-en "Check FERMAX's website")** - February 2022 (ongoing) - Spain<br>
+_Curricular internship_<br>
+Assisting in the accounting department<br>
+<p>&nbsp;</p>
+
 **[Club Naútico de Jávea](https://cnjavea.net/ "Check CNJ's website")** - Summer of 2021 - Spain<br>
 _Extracurricular internship_<br>
 • Assisted in the accounting department of the sailing school<br>
