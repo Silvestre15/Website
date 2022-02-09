@@ -451,6 +451,11 @@ article {
   font-family: "Atkinson Hyperlegible";
   color: #669bbc; }
 
+.hugo_mention {
+  font-size: 1rem;
+  font-family: "Atkinson Hyperlegible";
+  color: #669bbc; }
+
 @font-face {
   font-family: 'Crimson Pro';
   font-style: normal;

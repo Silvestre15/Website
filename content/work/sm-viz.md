@@ -4,7 +4,7 @@ description: "Machine learning applied to the visualization of the IBEX 35"
 date: 2021-11-17T18:43:09+02:00
 showDate: true
 ---
-This project analyses the structure of the main Spanish stock market index by means of supervised and unsupervised machine learning techniques included inside [scikit-learn's](https://scikit-learn.org/stable/auto_examples/applications/plot_stock_market.html#sphx-glr-auto-examples-applications-plot-stock-market-py "Check scikit-learn's website") Python package. The original code was written by [Gaël Varoquaux](http://gael-varoquaux.info/about.html "Check Gaël's website"), one of the creators of the widely used package.
+This project analyses the structure of the main Spanish stock market index by means of supervised and unsupervised machine learning techniques included inside [scikit-learn's](https://scikit-learn.org/stable/auto_examples/applications/plot_stock_market.html#sphx-glr-auto-examples-applications-plot-stock-market-py "Check scikit-learn's website") [Python](https://www.python.org/ "Check Python's website") package. The original code was written by [Gaël Varoquaux](http://gael-varoquaux.info/about.html "Check Gaël's website"), one of the creators of the widely used package.
 
 <script type="text/javascript">
   function iframeLoaded() {
@@ -26,7 +26,7 @@ The plotting was done with [matplotlib](https://matplotlib.org/ "Check matplotli
 
 ### Live analysis
 
-The previous graph lets us visualise how the index behaved in the past, but I'm more fond of seeing how it behaves during the trading hours. For that I wrote some code in R that scrapes the intraday fluctuations of the components and accumulates the results inside csv files. I can then run the same Python script on those newly created files and end up with the following graph:
+The previous graph lets us visualise how the index behaved in the past, but I'm more fond of seeing how it behaves during the trading hours. For that I wrote some code in [R](https://www.r-project.org/ "Check R's website") that scrapes the intraday fluctuations of the components and accumulates the results inside csv files. I can then run the same Python script on those newly created files and end up with the following graph:
 
 <center>
 <img src="/ibex_15_jun.svg"/>
