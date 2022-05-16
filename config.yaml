@@ -19,6 +19,8 @@ params:
       text: Work
     - link: reads
       text: Reads
+    - link: resources
+      text: Resources
   title: Silvestre Dimitrieff
 
 markup:
