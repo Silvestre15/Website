@@ -39,10 +39,18 @@ h1, h2 {
 h3 {
   font-family: "Helvetica", "sans serif";
   opacity: 1;
-  text-align: left;
   margin-bottom: 2rem;
   margin-top: 2rem;
   font-size: 2rem; }
+
+h4 {
+  font-family: "Helvetica", "sans serif";
+  opacity: 1;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  align-items: center;
+  text-align: center;
+  font-size: 1.3rem; }
 
 li {
   opacity: 1; }
@@ -221,7 +229,7 @@ article {
   article h1, article h2 {
     margin: 1em 0em;
     text-align: center; }
-  article h3 {
+  article h3, article h4 {
     text-align: center; }
   article .anchor-link > a {
     border-bottom: none;
@@ -455,6 +463,11 @@ article {
   font-size: 1rem;
   font-family: "Atkinson Hyperlegible";
   color: #669bbc; }
+
+.cv_header {
+  font-size: 1.4rem;
+  font-family: "Atkinson Hyperlegible";
+  text-align: center; }
 
 @font-face {
   font-family: 'Crimson Pro';

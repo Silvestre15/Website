@@ -2,7 +2,10 @@
 title: "Curriculum Vitae"
 date: '2022-02-01T18:41:09+02:00'
 ---
-My name is Silvestre Dimitrieff Castellote and I'm a student currently finishing a BBA in Valencia, Spain. 
+<p>&nbsp;</p>
+
+<p class="cv_header">BBA final year student | Python & R | Finance enthusiast | Valencia, Spain</p>
+
 <p>&nbsp;</p>
 
 ### Education
