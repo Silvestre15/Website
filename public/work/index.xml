@@ -9,6 +9,16 @@
     <lastBuildDate>Wed, 17 Nov 2021 18:43:09 +0200</lastBuildDate><atom:link href="https://silvestred.com/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Visualizing the stock market structure</title>
+      <link>https://silvestred.com/work/funds_analysis/</link>
+      <pubDate>Wed, 17 Nov 2021 18:43:09 +0200</pubDate>
+      
+      <guid>https://silvestred.com/work/funds_analysis/</guid>
+      <description>text
+function iframeLoaded() { var iFrameID = document.getElementById(&#39;custom_resize1&#39;); if(iFrameID) { iFrameID.height = &#34;&#34;; iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + &#34;px&#34;; window.frames[0].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue(&#39;background-color&#39;) } }    text title&amp;nbsp;¶ text</description>
+    </item>
+    
+    <item>
+      <title>Visualizing the stock market structure</title>
       <link>https://silvestred.com/work/sm-viz/</link>
       <pubDate>Wed, 17 Nov 2021 18:43:09 +0200</pubDate>
       
