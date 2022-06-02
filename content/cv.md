@@ -4,7 +4,7 @@ date: '2022-02-01T18:41:09+02:00'
 ---
 <p>&nbsp;</p>
 
-<p class="cv_header">BBA final year student | Python & R | Finance enthusiast | Valencia, Spain</p>
+<p class="cv_header">BBA final year student | Python & R | Finance and markets enthusiast | Valencia, Spain</p>
 
 <p>&nbsp;</p>
 
