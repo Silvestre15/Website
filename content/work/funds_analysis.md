@@ -63,3 +63,40 @@ Micheal J. Burry became famous after the calling the US housing bubble of 2008 a
 Apple's stock price had lost 18% of its value in 2022 as of the 31st of May amid a strong tech sell off that has [wiped out a fifth of the Nasdaq's composite value](https://www.cnbc.com/2022/05/05/tech-selloff-puts-nasdaq-on-pace-for-worst-day-since-june-2020.html "What is this?"). Burry's portfolio is short Apple but long Alphabet and Meta Platforms, meaning that the legendary investor specifically targeted the company but not the broader Big Tech sector. 
 
 
+<p>&nbsp;</p>
+
+[George Soros](https://www.opensocietyfoundations.org/george-soros "Who is this?")' family office had a stake worth almost 1 billion dollars in [Rivian](https://rivian.com/ "What is this?"), the famous EV company that is trying to compete against Tesla. The stake, representing 15% of the portfolio, has seen its value slashed in half since the fund's last 13F filings. On the last day of 2021, the stake was worth a little over 2 billion dollars and represented 28% of the fund's total value. 
+
+<p>&nbsp;</p>
+
+<script type="text/javascript">
+  function iframeLoaded4() {
+      var iFrameID = document.getElementById('custom_resize4');
+      if(iFrameID) {
+            iFrameID.height = "";
+            iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + "px";
+            window.frames[0].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue('background-color')
+      }   
+  }
+</script>
+<p>
+<iframe src="/sfm1Q22.html" scrolling=no id="custom_resize4" onload="iframeLoaded4()" allowTransparency="true" class="iframe-center"></iframe>
+
+
+As the chart below shows, the price of Rivian's stock was of approximately 50 dollars at the close of the first quarter of the year. On the last day of May the stock closed at 31 dollars. 
+
+
+<p>&nbsp;</p>
+
+<script type="text/javascript">
+  function iframeLoaded5() {
+      var iFrameID = document.getElementById('custom_resize5');
+      if(iFrameID) {
+            iFrameID.height = "";
+            iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + "px";
+            window.frames[0].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue('background-color')
+      }   
+  }
+</script>
+<p>
+<iframe src="/RIVN_2022-01-01_2022-05-31.html" scrolling=no id="custom_resize5" onload="iframeLoaded5()" allowTransparency="true" class="iframe-center"></iframe>
