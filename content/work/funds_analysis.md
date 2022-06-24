@@ -1,10 +1,10 @@
 ---
 title: "Visualizing the positions of renowned funds"
 description: "text"
-date: 2022-06-01T18:43:09+02:00
+date: 2022-06-22T18:43:09+02:00
 showDate: true
 ---
-In the following paragraphs, we will take a dive into the latest publicly available information regarding the positions of some fund managers. Said information comes from the [13F filings](https://www.investor.gov/introduction-investing/investing-basics/glossary/form-13f-reports-filed-institutional-investment "What is this?") that Institutional Investment Managers have to report on a quarterly basis. It is important to note that said information can be disclosed up to 45 days after the end of said quarter.
+In the following paragraphs, we will take a dive into the latest publicly available information regarding the positions of a selection of renowned funds. Said information comes from the [13F filings](https://www.investor.gov/introduction-investing/investing-basics/glossary/form-13f-reports-filed-institutional-investment "What is this?") that they have to report on a quarterly basis. It is important to note that said information can be disclosed up to 45 days after the end of said quarter.
 
 In the case of this analysis, the reports reflect the holdings of the funds on the 31st of March of 2022. Holdings between that date and the date the report is published can vary, meaning the reports may not reflect the funds' actual holdings. Nonetheless, said reports give a great amount of information regarding the strategy and thoughts of the fund managers.
 
@@ -43,7 +43,7 @@ This analysis will start by looking at Ray Dalio's [Bridgewater Associates](http
 
 Micheal J. Burry's [Scion Asset Management](https://www.scionasset.com/ "What is this?") portfolio was composed of 12 stocks as of the end of this first quarter. About 35% of the weight of the fund is allocated to the GAFAM group through the positions in Apple, Alphabet and Meta Platforms. But it is important to note that Burry is shorting Apple's stock. 
 
-Micheal J. Burry became famous after the calling the US housing bubble of 2008 and shorting subprime loans. [The Big Short](https://www.imdb.com/title/tt1596363/ "What is this?") is an excellent movie that traces the story Burry and other Wall Street investors who gained millions from their bets. At the end of 2021, Burry [exited a short position he had on Elon Musk's Tesla](https://www.reuters.com/business/finance/big-short-burry-exits-bearish-bets-tesla-google-2021-11-16/ "Check out the news") after the stock kept increasing in value.
+Micheal J. Burry became famous after calling the US housing bubble of 2008 and shorting subprime loans. [The Big Short](https://www.imdb.com/title/tt1596363/ "What is this?") is an excellent movie that traces the story of Burry and other Wall Street investors who gained millions from their bets. At the end of 2021, Burry [exited a short position he had on Elon Musk's Tesla](https://www.reuters.com/business/finance/big-short-burry-exits-bearish-bets-tesla-google-2021-11-16/ "Check out the news") after the stock kept increasing in value.
 
 <p>&nbsp;</p>
 
@@ -65,10 +65,6 @@ Apple's stock price had lost 18% of its value in 2022 as of the 31st of May amid
 
 <p>&nbsp;</p>
 
-[George Soros](https://www.opensocietyfoundations.org/george-soros "Who is this?")' family office had a stake worth almost 1 billion dollars in [Rivian](https://rivian.com/ "What is this?"), the famous EV company that is trying to compete against Tesla. The stake, representing 15% of the portfolio, has seen its value slashed in half since the fund's last 13F filings. On the last day of 2021, the stake was worth a little over 2 billion dollars and represented 28% of the fund's total value. 
-
-<p>&nbsp;</p>
-
 <script type="text/javascript">
   function iframeLoaded4() {
       var iFrameID = document.getElementById('custom_resize4');
@@ -81,6 +77,8 @@ Apple's stock price had lost 18% of its value in 2022 as of the 31st of May amid
 </script>
 <p>
 <iframe src="/sfm1Q22.html" scrolling=no id="custom_resize4" onload="iframeLoaded4()" allowTransparency="true" class="iframe-center"></iframe>
+
+[George Soros](https://www.opensocietyfoundations.org/george-soros "Who is this?")' family office had a stake worth almost 1 billion dollars in [Rivian](https://rivian.com/ "What is this?"), the famous EV company that is trying to compete against Tesla. The stake, representing 15% of the portfolio, has seen its value slashed in half since the fund's last 13F filings. On the last day of 2021, the stake was worth a little over 2 billion dollars and represented 28% of the fund's total value. 
 
 
 As the chart below shows, the price of Rivian's stock was of approximately 50 dollars at the close of the first quarter of the year. On the last day of May the stock closed at 31 dollars. 

@@ -17,8 +17,6 @@ params:
       text: Profile
     - link: work
       text: Work
-    - link: reads
-      text: Reads
     - link: resources
       text: Resources
   title: Silvestre Dimitrieff
