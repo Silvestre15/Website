@@ -1,7 +1,7 @@
 ---
 title: "Visualizing the positions of renowned funds"
 description: "text"
-date: 2022-06-22T18:43:09+02:00
+date: 2022-09-06T18:43:09+02:00
 showDate: true
 ---
 In the following paragraphs, we will take a dive into the latest publicly available information regarding the positions of a selection of renowned funds. Said information comes from the [13F filings](https://www.investor.gov/introduction-investing/investing-basics/glossary/form-13f-reports-filed-institutional-investment "What is this?") that they have to report on a quarterly basis. It is important to note that said information can be disclosed up to 45 days after the end of said quarter.
@@ -98,3 +98,63 @@ As the chart below shows, the price of Rivian's stock was of approximately 50 do
 </script>
 <p>
 <iframe src="/RIVN_2022-01-01_2022-05-31.html" scrolling=no id="custom_resize5" onload="iframeLoaded5()" allowTransparency="true" class="iframe-center"></iframe>
+
+
+### Second quarter update
+
+On the 15th of August, fund managers had to send their fund's holdings as of the 30 of June to the SEC. 
+
+<p>&nbsp;</p>
+
+<script type="text/javascript">
+  function iframeLoaded6() {
+      var iFrameID = document.getElementById('custom_resize6');
+      if(iFrameID) {
+            iFrameID.height = "";
+            iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + "px";
+            window.frames[0].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue('background-color')
+      }   
+  }
+</script>
+
+<p/>
+<iframe src="/bwa2Q22.html" scrolling=no id="custom_resize6" onload="iframeLoaded6()" allowTransparency="true" class="iframe-center"></iframe>
+
+Dalio's holdings have lost around a billion and half dollars, or 4% of their total value. His position in the FTSE Emerging Market ETF has lost around 35% of its previously reported value, thus dropping to the seventh position in his portfolio. 
+
+Micheal Burry's Scion Asset Management has sold all of its previous positions and disclosed a 3 million dollar position in [The GEO Group](https://www.geogroup.com "What is this?").
+<p>&nbsp;</p>
+
+<script type="text/javascript">
+  function iframeLoaded7() {
+      var iFrameID = document.getElementById('custom_resize7');
+      if(iFrameID) {
+            iFrameID.height = "";
+            iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + "px";
+            window.frames[0].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue('background-color')
+      }   
+  }
+</script>
+
+<p/>
+<iframe src="/^GSPC_2022-01-01_2022-09-0.html" scrolling=no id="custom_resize7" onload="iframeLoaded7()" allowTransparency="true" class="iframe-center"></iframe>
+
+The recent [market rout](https://www.delcap.com/financial-markets-review-h1-2022 "Check out the news") has probably made Burry change his mind and sell all of his positions. 
+
+<script type="text/javascript">
+  function iframeLoaded8() {
+      var iFrameID = document.getElementById('custom_resize8');
+      if(iFrameID) {
+            iFrameID.height = "";
+            iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + "px";
+            window.frames[0].document.body.style.backgroundColor=window.getComputedStyle( document.body ,null).getPropertyValue('background-color')
+      }   
+  }
+</script>
+
+<p/>
+<iframe src="/sfm2Q22.html" scrolling=no id="custom_resize8" onload="iframeLoaded8()" allowTransparency="true" class="iframe-center"></iframe>
+
+Soros' family office lost almost one billion dollars in value compared to its previous filing. Its Rivian's stake has been slashed in half during the mean time. 
+
+
