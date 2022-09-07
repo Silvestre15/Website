@@ -139,8 +139,9 @@ Micheal Burry's Scion Asset Management has sold all of its previous positions an
 <p/>
 <iframe src="/^GSPC_2022-01-01_2022-09-0.html" scrolling=no id="custom_resize7" onload="iframeLoaded7()" allowTransparency="true" class="iframe-center"></iframe>
 
-The recent [market rout](https://www.delcap.com/financial-markets-review-h1-2022 "Check out the news") has probably made Burry change his mind and sell all of his positions. 
 
+The recent [market rout](https://www.delcap.com/financial-markets-review-h1-2022 "Check out the news") has probably made Burry change his mind and sell all of his positions. 
+<p>&nbsp;</p>
 <script type="text/javascript">
   function iframeLoaded8() {
       var iFrameID = document.getElementById('custom_resize8');
