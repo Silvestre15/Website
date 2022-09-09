@@ -4,13 +4,13 @@ date: '2022-02-01T18:41:09+02:00'
 ---
 <p>&nbsp;</p>
 
-<p class="cv_header">BBA final year student | Python & R | Finance and markets enthusiast | Valencia, Spain</p>
+<p class="cv_header">BBA | Python & R | Finance and markets enthusiast | Valencia, Spain</p>
 
 <p>&nbsp;</p>
 
 ### Education
 
-**[EDEM Escuela de Empresarios](https://edem.eu/en/ "Check EDEM's website")** - Since 2018 - Spain<br>
+**[EDEM Escuela de Empresarios](https://edem.eu/en/ "Check EDEM's website")** -  2018/2022 - Spain<br>
 Bachelor in Business Administration, Entrepreneurship oriented (Bilingual English/Spanish)<br>
 <p>&nbsp;</p>
 
