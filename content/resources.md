@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-date: '2022-05-14T18:41:09+02:00'
+date: '2022-09-09T18:41:09+02:00'
 ---
 In this section you can download my curriculum in other languages:
 
