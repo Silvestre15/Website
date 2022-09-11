@@ -98,7 +98,7 @@ As the chart below shows, the price of Rivian's stock was of approximately 50 do
 </script>
 <p>
 <iframe src="/RIVN_2022-01-01_2022-05-31.html" scrolling=no id="custom_resize5" onload="iframeLoaded5()" allowTransparency="true" class="iframe-center"></iframe>
-
+<p>&nbsp;</p>
 
 ### Second quarter update
 
@@ -156,6 +156,6 @@ The recent [market rout](https://www.delcap.com/financial-markets-review-h1-2022
 <p/>
 <iframe src="/sfm2Q22.html" scrolling=no id="custom_resize8" onload="iframeLoaded8()" allowTransparency="true" class="iframe-center"></iframe>
 
-Soros' family office lost almost one billion dollars in value compared to its previous filing. Its Rivian's stake has been slashed in half during the mean time. 
+Soros' family office lost almost one billion dollars in value compared to its previous filing. Its Rivian's stake has been slashed in half during the meantime. 
 
 
