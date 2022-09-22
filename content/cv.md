@@ -1,6 +1,6 @@
 ---
-title: "Curriculum Vitae"
-date: '2022-09-01T18:41:09+02:00'
+title: "Silvestre Dimitrieff"
+date: '2022-09-21T18:41:09+02:00'
 ---
 <p>&nbsp;</p>
 
@@ -9,6 +9,10 @@ date: '2022-09-01T18:41:09+02:00'
 <p>&nbsp;</p>
 
 ### Education
+
+**[Corporate Finance Institute®](https://corporatefinanceinstitute.com/ "Check CFI's website")** - Since September 2022 (ongoing)<br>
+Capital Markets & Securities Analyst (CMSA)®
+<p>&nbsp;</p>
 
 **[EDEM Escuela de Empresarios](https://edem.eu/en/ "Check EDEM's website")** -  2018/2022 - Spain<br>
 Bachelor in Business Administration, Entrepreneurship oriented (Bilingual English/Spanish)<br>
