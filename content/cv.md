@@ -58,11 +58,11 @@ _Person in charge_<br>
 
 Management strategy of a portfolio based on technical analysis of its constituents together with the automatic generation of reports for investors. Developed with Python. 
 
-Analysis and visualization of 13F filings from large American investment funds. Developed with Python and R.
+Analysis and visualization of 13F filings from large American investment funds. [Developed with Python and R](/work/funds-analysis).
 
-Analysis and visualization of the economic inequalities in the world through a web application. Developed with R.
+Analysis and visualization of the economic inequalities in the world through a web application. [Developed with R](/work/inequality).
 
-Live analysis and visualization of the relations between the movements of the IBEX35’s constituents. Developed with Python and R. 
+Live analysis and visualization of the relations between the movements of the IBEX35’s constituents. [Developed with Python and R](/work/sm-viz). 
 <p>&nbsp;</p>
 
 ### Competences and complementary information

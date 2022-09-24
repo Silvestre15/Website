@@ -2,7 +2,7 @@
 title: "Resources"
 date: '2022-09-09T18:41:09+02:00'
 ---
-In this section you can download my curriculum in other languages:
+In this section you can download my resume in other languages:
 
 <a href="CV in English" onclick='window.open("/cv_dimitrieff_eng.pdf");return false;'>Donwload in English</a>
 
