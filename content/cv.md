@@ -33,7 +33,7 @@ _Curricular internship with extended contract_<br>
 
 **[Club Naútico de Jávea](https://cnjavea.net/ "Check CNJ's website")** - Summer of 2021 - Spain<br>
 _Extracurricular internship_<br>
-• Managed the accounting of the sailing school<br>
+• Managed the accounts receivable of the sailing school<br>
 •	Assistance in the organization of regatte during the 47th [Semana de Vela](https://www.abc.es/deportes/vela/vela-ligera/abci-115-regatistas-participaronn-47-semana-vela-club-nautico-javea-202108161253_noticia.html "More info on that")<br>
 <p>&nbsp;</p>
 
