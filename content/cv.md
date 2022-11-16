@@ -24,7 +24,7 @@ Secondary education (Bilingual English/French)
 
 ### Experience
 
-**[FERMAX](https://www.fermax.com/intl-en "Check FERMAX's website")** - February 2022 (ongoing) - Valencia<br>
+**[FERMAX](https://www.fermax.com/intl-en "Check FERMAX's website")** - February/November 2022 - Valencia<br>
 _Curricular internship with extended contract_<br>
 • Collaboration in the accounting department<br>
 •	Collaboration with the Paris-based branch to increase their efficiency and productivity through the creation of digital tools<br>
